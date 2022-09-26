@@ -17,7 +17,7 @@
     .titulo-segundo.color-acento-contenido.mb-5
       h2 1.1 Interpretación de documentos
 
-    .tarjeta.color-acento-contenido.p-4.mb-5
+    .tarjeta.tarjeta-rosa.p-4.mb-5
       .row(numero="1" titulo="Praesent luctus")
         .col-md-6.mb-4.mb-md-0
           p.mb-5 A nivel nacional, el sector panelero se caracteriza por la importancia en la producción agropecuaria, por ello; se ha convertido en el eje central de la economía campesina de pequeños y grandes productores. Las costumbres en el proceso de fabricación, así como ser uno de los alimentos principales en la canasta familiar, que han perdurado por generaciones.
