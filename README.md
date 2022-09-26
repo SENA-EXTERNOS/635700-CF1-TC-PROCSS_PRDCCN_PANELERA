@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.2.1**
+# **Procedimientos técnicos de producción panelera**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://sena-externos.github.io/635700-CF1-TC-PROCSS_PRDCCN_PANELERA/](https://sena-externos.github.io/635700-CF1-TC-PROCSS_PRDCCN_PANELERA/)
 
 #
 
