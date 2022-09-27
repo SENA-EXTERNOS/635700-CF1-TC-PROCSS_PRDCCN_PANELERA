@@ -152,16 +152,28 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Variedades de caña de azúcar ',
+      referencia:
+        'Barona Rodríguez, A. F., Antolinez Sandoval, E. Y., López Lopera, J. G., Viveros Valens, C. A., Jiménez Vargas, J., Ángel Sánchez, J. C., Ballesteros Araque, A. L., & Vargas Orozco, G. A. (2021). Comportamiento agroindustrial de seis variedades de ccaña de azúcar (Saccharum spp.) para panela en Barbosa (Colombia). Ciencia y Agricultura, 18(3), 15–28. https://doi.org/10.19053/01228420.v18.n3.2021.1282',
+      tipo: 'Artículo',
+      link:
+        'https://www.redalyc.org/journal/5600/560070818002/560070818002.pdf ',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Evaluación de cultivares de caña de azúcar ',
+      referencia:
+        'Barona-Rodríguez, A. F., Insuasty-Burbano, O. I., Viveros-Valens, C. A., Ángel-Sánchez, J. C., & Ramírez-Durán, J. (2020). Evaluación de cultivares de caña de azúcar (Saccharum spp.) para producción de panela en el departamento de Boyacá, Colombia. Revista U.D.C.A Actualidad & Divulgación Científica, 23(2), 1–9. https://doi.org/10.31910/rudca.v23.n2.2020.12908',
+      tipo: 'Artículo',
+      descarga:
+        'https://revistas.udca.edu.co/index.php/ruadc/article/view/1298/1965 ',
+    },
+    {
+      tema: 'Control biológico ',
+      referencia:
+        'Arias-Gutiérrez, R. (2018). AMAZONÍA EXÓTICA - Natural Antrópica Turística Publisher: Imprenta ESPE AMAZONÍA EXÓTICA - Natural Antrópica Turística (Issue November 2019).',
+      tipo: 'Artículo páginas 154 a 165',
+      descarga:
+        'https://www.researchgate.net/profile/Matteo-Radice/publication/337005521_AMAZONIA_EXOTICA_-_Natural_Antropica_Turistica_Publisher_Imprenta_ESPE_-_ISBN_978994293210/links/5dc07d424585151435e8be5f/AMAZONIA-EXOTICA-Natural-Antropica-Turistica-Publisher-Imprenta-ESPE-ISBN-978994293210.pdf#page=167 ',
     },
   ],
   glosario: [
@@ -176,8 +188,53 @@ export default {
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Amanda, I., & Marcillo, A. (2002). Programa Nacional De Transferencia De Tecnología Agropecuaria Pronatta Ministerio De Agricultura Y Desarrollo Rural Funach-Ascapam Guía Para La Elaboración De Panela. 17, 17. ',
+      link:
+        'http://www.panelamonitor.org/media/docrepo/document/files/guia-para-la-elaboracion-de-panela.pdf ',
+    },
+    {
+      referencia:
+        'Duarte-Álvarez, O. J., & González-Villalba, J. D. (2019). Guía técnica del cultivo de la Caña de Azúcar. In Fca Una (Vol. 1). ',
+      link:
+        'http://www.agr.una.py/fca/index.php/libros/catalog/view/326/27/353-1 ',
+    },
+    {
+      referencia:
+        'Fernández del Campo, L. (2019). Cultivo de la caña de azúcar /. Cultivo de La Caña de Azúcar /. ',
+      link: 'https://doi.org/10.5962/bhl.title.156871 .',
+    },
+    {
+      referencia:
+        'Giraldo Henao, E. (1984). Cultivo de la caña. 34 páginas. or 226-193. ',
+      link: 'http://hdl.handle.net/20.500.12324/23969 ',
+    },
+    {
+      referencia:
+        'Hidyat. (2015). No Title طرق تدريس اللغة العربية. Экономика Региона, 32 ',
+      link:
+        'https://repository.unad.edu.co/bitstream/handle/10596/3586/1042996781.pdf?sequence=3&isAllowed=y',
+    },
+    {
+      referencia:
+        'García, H. (n.d.). Corpoica. El cultivo de la caña panelera. Corpoica. ',
+      link:
+        'https://repository.agrosavia.co/bitstream/handle/20.500.12324/11432/43324_51628.pdf?sequence=1&isAllowed=y',
+    },
+    {
+      referencia:
+        'Investigaci, C. D. E., Ca, D. E. L. A., & Az, D. E. (2003). Catálogo de Variedades Segunda edición. Director, 31.',
       link: '',
+    },
+    {
+      referencia: 'León, A. (2008). Hidratos de carbono. Bioquímica, 14–30. ',
+      link: 'www.uhu.es/08007/.../apuntes/2005/pdf/Tema_02_carbohidratos.pdf ',
+    },
+    {
+      referencia:
+        'Ortiz, C., Solano, D., Villada, H., Mosquera, S., & Velasco, R. (2011). Extracción y secado de floculantes naturales usados en la clarificación de jugos de caña. Biotecnología En El Sector Agropecuario y Agroindustrial, 9(2), 32–40. ',
+      link:
+        'http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S1692-35612011000200004&lng=en&nrm=iso&tlng=es ',
     },
   ],
   creditos: {
