@@ -111,16 +111,87 @@
 
   
 
-      AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta-rosa")
+      AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta-rosa").col-md.col-lg-6
         .row(titulo="Manejo de jugos")
-          .col-md-6.mb-4.mb-md-0
+          .col-md-9.mb-4.mb-md-0
             p.mb-5 Existen varias formas de pasar los jugos por medio de flujos a través de la hornilla; paralelo, contracorriente y mixto, todo esto depende de la tecnología y costumbres regionales.
 
         .row(titulo="Calentamiento de jugos")
           .col-md-9.mb-4.mb-md-0
             p.mb-5 Al terminar la pre limpieza se obtiene el jugo sin clarificar, el cual pasa directamente al fondo o paila recibidora a una temperatura ambiente, luego se inicia el calentamiento hasta los 55 oC, esta permite la aceleración de la velocidad del movimiento del jugo facilitando la formación de partículas de gran tamaño y densidad, las cuales deben ser removidas por procesos físicos.
+    .col-8.col-sm-6.col-md-4.mb-4.mb-md-5
+      figure
+        img(src='@/assets/curso/temas/T3/manejoJugos.svg')
     
+    ol.lista-ol--cuadro
+      li 
+        .lista-ol--cuadro__vineta.color-acento-botones
+        | <b>Clarificación</b>
+      p.mb-5 En este paso se eliminan los sólidos en suspensión, las sustancias coloides y algunos compuestos colorantes presentes en los jugos, especialmente los que se generan en el proceso de elaboración, debido a la aglomeración de partículas.
+      p <b>A continuación, se presentan cada una de las actividades que se deben desarrollar para esta fase.</b> 
 
+    .tarjeta.tarjeta-rosa.p-4.mb-5
+      SlyderA(tipo="b")
+        .row
+          .col-md-6.mb-4.mb-md-0
+            p Inicialmente se emplea la paila clarificadora de la hornilla, mediante la coagulación-floculación de las impurezas presentes en el jugo, por efecto combinado de la temperatura, tiempo y acción de los agentes clarificantes.
+        
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/T3/clarificacion-1.svg', alt='Texto que describa la imagen')
+
+        .row
+          .col-md-6.mb-4.mb-md-0
+            p Los clarificantes se pueden dividir en químicos y naturales. Dentro de estos están: el sulfoclarol o hidrosulfito de sodio (Na2S2O4) conocido como ditionito de sodio o hiposulfito de sodio, también está la sementina, el carbonato de calcio o caliza (CaCO3), óxido de calcio o cal viva (CaO), hidróxido de calcio o cal apagada Ca (OH)2, entre otras. En los naturales hace referencia a las plantas utilizadas para purificar, como la cáscara de balso, raíz de abrojo y la yausabara.
+        
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/T3/clarificacion-2.svg', alt='Texto que describa la imagen')
+
+        .row
+          .col-md-6.mb-4.mb-md-0
+            p Los clarificantes se pueden dividir en químicos y naturales. Dentro de estos están: el sulfoclarol o hidrosulfito de sodio (Na2S2O4) conocido como ditionito de sodio o hiposulfito de sodio, también está la sementina, el carbonato de calcio o caliza (CaCO3), óxido de calcio o cal viva (CaO), hidróxido de calcio o cal apagada Ca (OH)2, entre otras. En los naturales hace referencia a las plantas utilizadas para purificar, como la cáscara de balso, raíz de abrojo y la yausabara.
+        
+          .col-md-6
+            figure
+              .titulo-sexto.color-acento-contenido
+                  p <b>Tabla 1:</b> Composición del proceso de clarificación
+              img(src='@/assets/curso/temas/T3/clarificacion-3.svg', alt='Texto que describa la imagen')
+
+        .row
+          .col-md-6.mb-4.mb-md-0
+            p Las impurezas que flotan, coloquialmente conocidas como cachaza negra, son retiradas manualmente y se depositan en las cachaceras; aquí se hace la remoción, separando los jugos de fondo del recipiente y luego regresan a la paila clarificadora para continuar el proceso, mientras la cachaza se lleva a la paila cachacera donde se concentra hasta formar el melote.
+        
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/T3/clarificacion-4.svg', alt='Texto que describa la imagen')
+        
+    ol.lista-ol--cuadro
+      li 
+        .lista-ol--cuadro__vineta.color-acento-botones
+        | <b>Extracción y forma de aplicación del mucílago</b>
+
+    figure.mb-5
+      .titulo-sexto.color-acento-contenido
+          p <b>Tabla 1:</b> Composición del proceso de clarificación
+      img(src='@/assets/curso/temas/T3/extraccion-2.svg', alt='Texto que describa la imagen')
+
+    .titulo-segundo.color-acento-contenido.mb-5
+      h2 3.3.	Buenas prácticas de manufactura
+
+    .row
+      .col-lg-12
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img
+            img(src='@/assets/curso/temas/T3/buenasPracticas.svg')
+          .tarjeta
+            .p-4
+              p.mb-5 Colombia, es un país donde la agricultura es una de las principales fuentes económicas, este sector se ha venido renovando a través de estrategias para optimizar y cualificar los procesos desde el punto de vista normativos y de producción, haciendo énfasis en la manufactura, la salud y seguridad en el trabajo, entre otros.
+              p Las buenas prácticas de manufactura, contribuyen en el sector panelero mediante la mejora continua de la industria a través del trabajo ocupacional y ambiental, que lleva a minimizar dichos riesgos, lo que se refleja en menores costos de producción y fortalece la rentabilidad del producto y la optimización del mismo. (Investigaci et al., 2003).
+    .row
+      .col-6-lg-6
+        .cajon.color-acento-contenido.p-4.mb-5
+          p <b>¡Muy bien!</b> Ha finalizado el estudio de este componente formativo a través del cual ha aprendido sobre los procedimientos técnicos de producción panelera. Ahora lo invitamos a estudiar la síntesis donde podrá recordar de forma general los saberes que se han desarrollado, a realizar la actividad de aprendizaje donde podrá colocar a prueba lo aprendido, consultar el material complementario que le servirá como refuerzo y profundización y estudiar el glosario.  
 </template>
 
 <script>

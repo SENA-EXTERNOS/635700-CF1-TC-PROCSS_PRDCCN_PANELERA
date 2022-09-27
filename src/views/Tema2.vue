@@ -145,7 +145,7 @@
               p Existen dos modalidades utilizadas para cosechar la caña: corte por parejo y el corte por entresaque o desguíe.
         p.mb-5 <b>A continuación, se presenta de manera general cada una de ellas.</b>
 
-      AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta-rosa")
+      AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta-rosa").col-md-6
         .row(titulo="Corte parejo")
           .col-md-4
             figure
@@ -162,11 +162,10 @@
           .col-md-9.mb-4.mb-md-0
             p <b>Es la práctica más generalizada </b> entre los pequeños productores que utilizan el sistema de siembra mateado (por matas), que generalmente se práctica en zonas de laderas.
             p.mb-5 <b>El proceso del corte consiste en cortar las cañas maduras, permitiendo el crecimiento y desarrollo de las que han sido tiernas,</b> esto para su posterior cosecha, esta técnica tiene una ventaja de obtención de jugos sólidos solubles. Se puede concluir que el sistema es bueno, porque se puede repetir durante todo el año, presenta una desventaja, que implica invertir más tiempo y dinero, teniendo en cuenta que  las cañas maduras se presentarán todo el año. Se debe tener precaución de no cortar las cañas tiernas o sobre maduras porque se vería afectada la calidad de la panela, a causa de eso el azucares no sería sacarosa, sino invertidos de la caña o azúcares reductores (Quezada, 2007)
-      
-      Separador
-      .col-md-6.mb-4.mb-md-0
+      .col-8.col-sm-6.col-md-4.mb-4.mb-md-0
         figure
           img(src='@/assets/curso/temas/T2/corteCaña.svg')
+      Separador
 
       .titulo-segundo.color-acento-contenido.mb-5
         h2 2.2.	Azúcares 
