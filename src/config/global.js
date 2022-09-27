@@ -178,12 +178,63 @@ export default {
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Bagazo',
+      significado:
+        'Cáscara que queda después de que se saca el jugo de la caña de azúcar.',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: 'Cachaza',
+      significado:
+        'Subproducto en forma de torta de color verde oscuro, obtenida por acción de la temperatura, tiempo de exposición y sustancias floculantes en el momento de la clarificación del jugo en el proceso de elaboración de la panela.',
+    },
+    {
+      termino: 'Caña de azúcar',
+      significado:
+        'Planta monocotiledónea y gramínea, originaria de la India cuyo tallo leñoso, de uno a cinco metros de altura, que contiene un tejido esponjoso y dulce del que se extrae el jugo para concentrar y obtener azúcar.',
+    },
+    {
+      termino: 'Clarificación',
+      significado:
+        'Consiste en separar los no azúcares del jugo, en las tinas de clarificación, donde la temperatura es menor que en las tinas de ebullición y punteo.',
+    },
+    {
+      termino: 'Grados Brix (oB)',
+      significado: 'Sólidos solubles que están presentes en la solución.',
+    },
+    {
+      termino: 'Ley',
+      significado:
+        'Regla fija a la que está sometido un fenómeno de la naturaleza.',
+    },
+    {
+      termino: 'Materia prima:',
+      significado:
+        'Producto principal que forma parte de una fórmula. Se incorpora en la fórmula en mayor cantidad, para elaborar cierto producto.',
+    },
+    {
+      termino: 'Norma',
+      significado:
+        'Regla que se debe seguir o a que se deben ajustar a las conductas, tareas, actividades, etc.',
+    },
+    {
+      termino: 'Panela',
+      significado:
+        'Endulzante de origen natural, sólido, cristalizado, constituido esencialmente por cristales sueltos de sacarosa, obtenidos a partir de la caña de azúcar mediante procedimientos industriales determinados.',
+    },
+    {
+      termino: 'Producción',
+      significado:
+        'Fabricación o elaboración de un producto mediante el trabajo.',
+    },
+    {
+      termino: 'Resolución',
+      significado:
+        'Decreto, providencia, auto o fallo de autoridad gubernativa o judicial.',
+    },
+    {
+      termino: 'Yausabara',
+      significado:
+        'Nombre científico Pavonia sepium se encuentra en los cultivos y cercas vivas de los terrenos, presenta gran cantidad de gomas y mucilagos por ello es de gran importancia en la industria panelera. La mayoría de las personas la distingue por ser mala hierba.',
     },
   ],
   referencias: [
