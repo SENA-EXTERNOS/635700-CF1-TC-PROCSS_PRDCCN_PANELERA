@@ -11,7 +11,7 @@
 
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
       .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/introduccion/img.png')})`}"
+        :style="{'background-image': `url(${require('@/assets/curso/introduccion/img-1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 Bienvenido a este recurso educativo, a continuación, conocerá sobre los procedimientos técnicos de producción panelera lo que le permitirá identificar los requerimientos técnicos y normativos que rigen el proceso de producción de panela en el país y los procesos fisicoquímicos de la materia prima.

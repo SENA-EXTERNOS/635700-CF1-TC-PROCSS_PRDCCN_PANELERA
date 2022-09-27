@@ -9,7 +9,7 @@
 
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/temas/T1/requerimientosT1.png')})`}"
+        :style="{'background-image': `url(${require('@/assets/curso/temas/T1/img-1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 En Colombia la cultura gastronómica emplea la panela para la producción de alimentos, se encuentra en: bebidas, postres, platos fuertes, en otros; por ello la importancia no sólo de conocer la variedad de usos como producto natural orgánico de alta fuente nutritiva, si no también entender la producción, abarcando los requerimientos para el procesamiento, embalaje y almacenamiento.
@@ -26,7 +26,7 @@
       
         .col-md-4
           figure
-            img(src='@/assets/curso/temas/T1/interpretacion.svg')
+            img(src='@/assets/curso/temas/T1/img-1.svg')
 
     Separador
 
@@ -50,13 +50,13 @@
               p <b>Enlace web:</b> Minsalud - Normatividad
         .col-md-2
           figure
-            img(src='@/assets/curso/temas/T1/normasProduccion.svg')
+            img(src='@/assets/curso/temas/T1/img-2.svg')
 
 
       .row
         .col-md-2.mb-4.mb-md-0
           figure
-            img(src='@/assets/curso/temas/T1/normasProduccion.svg')
+            img(src='@/assets/curso/temas/T1/img-2.svg')
         .col.mb-4.mb-md-0
           h3 Resolución número 000247 de 2021
           p Hace referencia a la reglamentación en los máximos de producción y las características del negocio para los productos elaborados a base de panela y mieles vírgenes y sus derivados por campesinos y/o artesanos dentro de la categoría (A) – artesanal y se dictan otras disposiciones.
@@ -82,13 +82,13 @@
               p <b>Enlace web:</b> Función Pública
         .col-md-2
           figure
-            img(src='@/assets/curso/temas/T1/normasProduccion.svg')
+            img(src='@/assets/curso/temas/T1/img-2.svg')
 
 
       .row
         .col-md-2.mb-4.mb-md-0
           figure
-            img(src='@/assets/curso/temas/T1/normasProduccion.svg')
+            img(src='@/assets/curso/temas/T1/img-2.svg')
         .col.mb-4.mb-md-0
           h3 Resolución número 229 de 2012
           p La normativa en mención, fija un precio de referencia para la liquidación de la cuota de fomento panelero para el segundo semestre de 2020.
@@ -115,13 +115,13 @@
               p <b>Enlace web:</b> Colección De Legislación Colombiana
         .col-md-2
           figure
-            img(src='@/assets/curso/temas/T1/normasProduccion.svg')
+            img(src='@/assets/curso/temas/T1/img-2.svg')
 
 
       .row
         .col-md-2.mb-4.mb-md-5
           figure
-            img(src='@/assets/curso/temas/T1/normasProduccion.svg')
+            img(src='@/assets/curso/temas/T1/img-2.svg')
         .col.mb-4.mb-md-0
           h3 Resolución 3462 de 2008
           p Por la cual se modifica el parágrafo del artículo 9° y el artículo 15 de la Resolución 779 de 2006 y se dictan otras disposiciones.
@@ -155,13 +155,13 @@
               p <b>Enlace web:</b> Instituto Universitario De La Paz
         .col-md-2
           figure
-            img(src='@/assets/curso/temas/T1/normasProduccion.svg')
+            img(src='@/assets/curso/temas/T1/img-2.svg')
 
 
       .row
         .col-md-2.mb-4.mb-md-0
           figure
-            img(src='@/assets/curso/temas/T1/normasProduccion.svg')
+            img(src='@/assets/curso/temas/T1/img-2.svg')
         .col.mb-4.mb-md-0
           h3 Decreto 948 de 1995 
           p Se centra en la reglamentación parcial, la Ley 23 de 1973, los artículos 33, 73, 74, 75 y 76 del Decreto - Ley 2811 de 1974; los artículos 41, 42, 43, 44, 45, 48 y 49 de la Ley 9 de 1979; y la Ley 99 de 1993, en relación con la prevención y control de la contaminación atmosférica y la protección de la calidad del aire.
@@ -187,13 +187,13 @@
               p <b>Enlace web:</b> Minsalud - Biblioteca Digital
         .col-md-2
           figure
-            img(src='@/assets/curso/temas/T1/normasProduccion.svg')
+            img(src='@/assets/curso/temas/T1/img-2.svg')
 
 
       .row
         .col-md-2.mb-4.mb-md-0
           figure
-            img(src='@/assets/curso/temas/T1/normasProduccion.svg')
+            img(src='@/assets/curso/temas/T1/img-2.svg')
         .col.mb-4.mb-md-0
           h3 Resolución número 4121 de 2011
           p Por la cual se modifica parcialmente la Resolución 779 de 2006, modificadas por las Resoluciones 3462 de 2008 y 3544 de 2009.
@@ -220,13 +220,13 @@
               p <b>Enlace web:</b> Minsalud - Biblioteca Digital
         .col-md-2
           figure
-            img(src='@/assets/curso/temas/T1/normasProduccion.svg')
+            img(src='@/assets/curso/temas/T1/img-2.svg')
 
 
       .row
         .col-md-2.mb-4.mb-md-5
           figure
-            img(src='@/assets/curso/temas/T1/normasProduccion.svg')
+            img(src='@/assets/curso/temas/T1/img-2.svg')
         .col.mb-4.mb-md-0
           h3 Resolución 16379 de 2003
           p Por la cual se modifica el parágrafo del artículo 9° y el artículo 15 de la Resolución 779 de 2006 y se dictan otras disposiciones.
@@ -252,7 +252,7 @@
               p <b>Enlace web:</b> Minsalud - Biblioteca Digital
         .col-md-2
           figure
-            img(src='@/assets/curso/temas/T1/normasProduccion.svg')
+            img(src='@/assets/curso/temas/T1/img-2.svg')
       
       
 </template>

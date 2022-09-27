@@ -25,7 +25,7 @@
           .row
             .col-md-6.mb-4.mb-md-0
               figure
-                img(src='@/assets/curso/temas/T3/corteAponte.svg')
+                img(src='@/assets/curso/temas/T3/img-1.svg')
             .col-md-6
               h4 Corte y aponte de la caña 
               p El corte se debe realizar cuando la caña está madura, en ese momento el contenido de azúcares es máximo, de lo contrario los jugos de una caña inmadura o sobre madurada pueden alterar la panela. La actividad conocida como aponte se refiere a la recolección, el transporte hasta el trapiche y almacenamiento de la caña cosechada, procesos previos antes de la extracción de los jugos.
@@ -34,7 +34,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             figure
-              img(src='@/assets/curso/temas/T3/extraccion.svg')
+              img(src='@/assets/curso/temas/T3/img-2.svg')
           .col-md-6
             h4 Extracción de jugos
             p.mb-5 Es una técnica antigua y se originó de la creatividad natural del ser humano, el proceso ocurre cuando la caña pasa a través de un molino de tres mazas (rodillos), los cuales atraviesan los tallos de la caña y los comprime para obtener el jugo o guarapo crudo, que es el insumo principal, además del bagazo húmedo que se emplea como combustible para la hornilla (Amanda & Marcillo, 2002), (Quezada, 2007). 
@@ -43,7 +43,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             figure
-              img(src='@/assets/curso/temas/T3/preLimpieza.svg')
+              img(src='@/assets/curso/temas/T3/img-3.svg')
           .col-md-6
             h4 Pre limpieza de los jugos
             p.mb-5 La pre limpieza consiste en la eliminación por medios físicos y temperatura ambiente del material que sale con el jugo de caña del molino (tierra, partículas de bagazo, insectos o cera), se filtra por pozuelos y mallas donde se separan los residuos de gran tamaño, por medio de la sedimentación y floculación. En este paso se requieren pre limpiadores construidos en ladrillo con revestimiento de cerámica para facilitar la limpieza y la presencia de microorganismos (también se puede usar recipientes de acero inoxidable). La pre limpieza debe efectuarse de manera continua y puede utilizar el principio de separación por diferencia de densidad entre las impurezas como lodos, bagazo y arenas, para mejorar el producto final.
@@ -57,7 +57,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             figure
-              img(src='@/assets/curso/temas/T3/limpiezaMante.svg')
+              img(src='@/assets/curso/temas/T3/img-4.svg')
           .col-md-6
             h4 Limpieza y mantenimiento
             p.mb-5 La materia prima debe estar limpia, libre de residuos de tierra, restos de contaminantes y material que viene con la caña, posteriormente se debe sumergir en una solución de agua con cloro produciendo el lavado. Todos los equipos requeridos en el proceso de producción panelera, requieren un adecuado mantenimiento e higiene mínimo cada 6 horas, con el fin de evitar la fermentación de los jugos, evitando el deterioro de la calidad de la panela.
@@ -70,7 +70,7 @@
       .row.m-0.align-items-center.justify-content-between
         .col-lg-4.mb-4.mb-lg-0
           figure
-            img(src='@/assets/curso/temas/T3/residuos.svg')
+            img(src='@/assets/curso/temas/T3/img-5.svg')
         .col-lg-8
           .bloque-texto-a__texto.p-4
             p.mb-5 Los residuos del jugo de la caña son productos de procesos de clarificación, evaporación y concentración. 
@@ -86,7 +86,7 @@
     ImagenInfografica.color-acento-botones.mb-5
       template(v-slot:imagen)
         figure
-          img(src='@/assets/curso/temas/T3/clarificacion.svg')
+          img(src='@/assets/curso/temas/T3/img-6.svg')
 
       .tarjeta.tarjeta-rosa.p-3(x="17%" y="98%" numero="1")
         .h5.mb-2 Cámara de combustión
@@ -121,7 +121,7 @@
             p.mb-5 Al terminar la pre limpieza se obtiene el jugo sin clarificar, el cual pasa directamente al fondo o paila recibidora a una temperatura ambiente, luego se inicia el calentamiento hasta los 55 oC, esta permite la aceleración de la velocidad del movimiento del jugo facilitando la formación de partículas de gran tamaño y densidad, las cuales deben ser removidas por procesos físicos.
     .col-8.col-sm-6.col-md-4.mb-4.mb-md-5
       figure
-        img(src='@/assets/curso/temas/T3/manejoJugos.svg')
+        img(src='@/assets/curso/temas/T3/img-7.svg')
     
     ol.lista-ol--cuadro
       li 
@@ -138,7 +138,7 @@
         
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/T3/clarificacion-1.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/T3/img-8.svg', alt='Texto que describa la imagen')
 
         .row
           .col-md-6.mb-4.mb-md-0
@@ -146,7 +146,7 @@
         
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/T3/clarificacion-2.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/T3/img-9.svg', alt='Texto que describa la imagen')
 
         .row
           .col-md-6.mb-4.mb-md-0
@@ -156,7 +156,7 @@
             figure
               .titulo-sexto.color-acento-contenido
                   p <b>Tabla 1:</b> Composición del proceso de clarificación
-              img(src='@/assets/curso/temas/T3/clarificacion-3.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/T3/img-10.svg', alt='Texto que describa la imagen')
 
         .row
           .col-md-6.mb-4.mb-md-0
@@ -164,7 +164,7 @@
         
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/T3/clarificacion-4.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/T3/img-11.svg', alt='Texto que describa la imagen')
         
     ol.lista-ol--cuadro
       li 
@@ -174,7 +174,7 @@
     figure.mb-5
       .titulo-sexto.color-acento-contenido
           p <b>Tabla 1:</b> Composición del proceso de clarificación
-      img(src='@/assets/curso/temas/T3/extraccion-2.svg', alt='Texto que describa la imagen')
+      img(src='@/assets/curso/temas/T3/img-12.svg', alt='Texto que describa la imagen')
 
     .titulo-segundo.color-acento-contenido.mb-5
       h2 3.3.	Buenas prácticas de manufactura
@@ -183,7 +183,7 @@
       .col-lg-12
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/temas/T3/buenasPracticas.svg')
+            img(src='@/assets/curso/temas/T3/img-14.svg')
           .tarjeta
             .p-4
               p.mb-5 Colombia, es un país donde la agricultura es una de las principales fuentes económicas, este sector se ha venido renovando a través de estrategias para optimizar y cualificar los procesos desde el punto de vista normativos y de producción, haciendo énfasis en la manufactura, la salud y seguridad en el trabajo, entre otros.
