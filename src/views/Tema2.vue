@@ -84,7 +84,7 @@
     
     ol.lista-ol--cuadro
       li 
-        .lista-ol--cuadro__vineta.color-acento-botones
+        .lista-ol--cuadro__vineta.cuadro-peq
         | <b>Madurez de la caña</b>
       p.mb-5 Las personas que han trabajado toda la vida con el cultivo de caña de azúcar, pueden determinar fácilmente su madurez de manera subjetiva, empleando conocimientos empíricos obtenidos por la experiencia, además de los sentidos para establecer que el fruto este en su punto, basado en el color de las hojas, grosor, dulzor, comportamiento del macollo o tallos de la caña.
       p No obstante, existe otra técnica que requiere instrumentos como el refractómetro, este proceso es objetivo, técnico, seguro y confiable para establecer el índice de inmadurez (IM) de la caña. El análisis de la sacarosa por medio del índice de refracción determina la concentración de azúcar en la caña por la densidad óptica, al determinar el Brix (Quezada, 2007), (Fernández del Campo, 2019), (SAGARPA, 2015)
@@ -131,7 +131,7 @@
                     p <b>Enlace web:</b> Universidad Politécnica de Cartagena UPCT. Determinación de azúcares
     ol.lista-ol--cuadro
       li 
-        .lista-ol--cuadro__vineta.color-acento-botones
+        .lista-ol--cuadro__vineta.cuadro-peq
         | <b>Corte de caña</b>
     
     .p-3.mb-5

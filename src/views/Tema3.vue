@@ -79,7 +79,7 @@
 
     ol.lista-ol--cuadro
       li 
-        .lista-ol--cuadro__vineta.color-acento-botones
+        .lista-ol--cuadro__vineta.cuadro-peq
         | <b>Clarificación, evaporación y concentración de jugos</b>
       p.mb-5 Las etapas de clarificación, evaporación y concentración se llevan a cabo en la hornilla y horno, el cual suministra el calor necesario para evaporar más del 90% del agua contenida en el guarapo para la obtención de la panela.
 
@@ -105,7 +105,7 @@
     
     ol.lista-ol--cuadro
       li 
-        .lista-ol--cuadro__vineta.color-acento-botones
+        .lista-ol--cuadro__vineta.cuadro-peq
         | <b>Manejo y calentamiento de jugos</b>
       p.mb-5 A continuación, se presenta el manejo que debe darse a los jugos de la caña. 
 
@@ -125,7 +125,7 @@
     
     ol.lista-ol--cuadro
       li 
-        .lista-ol--cuadro__vineta.color-acento-botones
+        .lista-ol--cuadro__vineta.cuadro-peq
         | <b>Clarificación</b>
       p.mb-5 En este paso se eliminan los sólidos en suspensión, las sustancias coloides y algunos compuestos colorantes presentes en los jugos, especialmente los que se generan en el proceso de elaboración, debido a la aglomeración de partículas.
       p <b>A continuación, se presentan cada una de las actividades que se deben desarrollar para esta fase.</b> 
@@ -168,7 +168,7 @@
         
     ol.lista-ol--cuadro
       li 
-        .lista-ol--cuadro__vineta.color-acento-botones
+        .lista-ol--cuadro__vineta.cuadro-peq
         | <b>Extracción y forma de aplicación del mucílago</b>
 
     figure.mb-5
