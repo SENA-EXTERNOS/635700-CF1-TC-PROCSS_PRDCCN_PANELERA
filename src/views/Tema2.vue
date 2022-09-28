@@ -10,36 +10,36 @@
     .tarjeta.tarjeta-rosa.p-4.mb-5
       SlyderA(tipo="b")
         .row
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.mb-md-0.mr-custom
             p.mb-5 La caña cuyo nombre científico es Saccharum officinarum también conocida como caña de azúcar, es una planta gramínea originaria de Nueva Guinea que gracias a la acción humana se extendió por el mundo al ser transportada y cultivada por primera vez en Asia e India, desde esas regiones la plantación se extendió por varios países alrededor del mundo.  En el año 2001 Colombia fue nominado como el país productor de panela más importante, promoviendo más de 150.000 toneladas al año (SAGARPA, 2015). 
         
-          .col-md-6
+          .col-md-5
             figure
               img(src='@/assets/curso/temas/T2/img-1.png', alt='Texto que describa la imagen')
         .row
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.mb-md-0.mr-custom
             p.mb-5 La labranza de la caña de azúcar es determinante en gran medida del entorno social y económico de la región, debido a que se requiere mano de obra desde el momento de la siembra hasta la cosecha. Se usa principalmente como materia prima en la producción de azúcar para consumo, también se usa como forraje, bebidas alcohólicas y alcohol carburante (Giraldo Henao, 1984).
         
-          .col-md-6
+          .col-md-5
             figure
               img(src='@/assets/curso/temas/T2/img-2.png', alt='Texto que describa la imagen')
         .row
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.mb-md-0.mr-custom
             p.mb-5 El cultivo de caña debe encontrarse en condiciones ambientales específicas, se cultiva en lugares donde la temperatura sea alta, que oscile entre 32 0C y 38 0C durante su crecimiento, y requiere bajas temperaturas en el período de maduración, temperatura mínima  27 0C. Esta característica lleva al máximo extremo los jugos de la caña para que sean de alta calidad, extrema pureza y el rendimiento de azúcar será mayor (Hidyat, 2015).
-          .col-md-6
+          .col-md-5
             figure
               img(src='@/assets/curso/temas/T2/img-3.png', alt='Texto que describa la imagen')
         .row
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.mb-md-0.mr-custom
             p.mb-5 La caña requiere una precipitación adecuada para su cultivo durante el período de crecimiento que llega hasta los nueve meses, para ello requiere alrededor de 1500 mm de agua repartida a lo largo de esta temporada, la mejor distribución del agua para el cultivo de caña es: mayor cantidad durante el período de maduración reduciéndose, reduciendo la cantidad de agua, esta acción restringe el crecimiento de la caña para lograr la acumulación de azúcar. La luz es uno de los factores básicos para la producción de azúcares por lo que su intensidad es muy importante. En condiciones normales de humedad, la radiación solar tiene gran influencia en el crecimiento, así como en la formación de los azúcares y en su pureza. 
             p.mb-5 (Duarte-Álvarez & Gonzalez-Villalba, 2019).
-          .col-md-6
+          .col-md-5 
             figure
               img(src='@/assets/curso/temas/T2/img-4.png', alt='Texto que describa la imagen')
         .row
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.mb-md-0.mr-custom
             p.mb-5 Los procesos deficientes durante el cultivo sumado a las malas prácticas para su cuidado durante la fase agrícola, puede registrar bajas concentraciones en la productividad de la caña, debido al manejo inadecuado asistido por el hombre con los monocultivo, además de la escasa o nula utilización de fertilizantes, la omisión en el control de malezas, plagas y la lenta renovación de variedades en decadencia, lleva durante la fase de cosecha y molienda aumentar los costos por el transporte de materia prima inadecuada y las bajas concentraciones durante la extracción del jugo durante la molienda. (Romero & Digonzelli, 2009).
-          .col-md-6
+          .col-md-5
             figure
               img(src='@/assets/curso/temas/T2/img-5.png', alt='Texto que describa la imagen')
               
@@ -52,61 +52,85 @@
     .tarjeta.tarjeta-rosa.p-4.mb-5
       SlyderA(tipo="b")
         .row
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.mb-md-0.mr-custom
             p.mb-5 La caña se cultiva en climas tropicales y subtropicales y tiene la habilidad de adaptación en zonas que van desde el nivel del mar hasta los 2200 msnm (metros sobre el nivel del mar).
         
-          .col-md-6
+          .col-md-5
             figure
               img(src='@/assets/curso/temas/T2/img-6.png')
         .row
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.mb-md-0.mr-custom
             p.mb-5 La temperatura promedio de cultivo es 25ºC donde se determina que la producción alcanza el rango de ser buena. Durante el período de siembra esta pasa por cuatro etapas: germinación, macollamiento, rápido crecimiento y maduración.
         
-          .col-md-6
+          .col-md-5
             figure
               .titulo-sexto.color-acento-contenido
                 p <b>figura 1:</b> Etapas del cultivo de caña 
               img(src='@/assets/curso/temas/T2/img-7.svg')
         .row
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.mb-md-0.mr-custom
             p.mb-5 En la segunda cosecha se debe tener presente que la duración oscila entre los 11 a 13 meses y se comprenden tres etapas: brotee, crecimiento rápido y maduración (SAGARPA, 2015)
-          .col-md-6
+          .col-md-5
             figure
               img(src='@/assets/curso/temas/T2/img-8.png')
         .row
-          .col-md-6.mb-4.mb-md-0
+          .col-md-6.mb-4.mb-md-0.mr-custom
             p.mb-5 Existe gran variedad de caña para el uso panelero, algunas se conocen por los nombres comunes, entre ellas están: la caña POJ (negra, barniz y blanca), morada de fruta, cubana, campus brasil, puerto rico y cenicaña, sin embargo, la variedad a ser cultivada debe ser recomendada por el técnico de producción agrícola (Quezada, 2007) (Investigaci et al., 2003).
-          .col-md-6
+          .col-md-5
             figure
               .titulo-sexto.color-acento-contenido
                 p <b>figura 2:</b> Variedadesde la caña 
               img(src='@/assets/curso/temas/T2/img-9.svg')
     
-    ol.lista-ol--cuadro
+    ol.lista-ol--cuadro.mb-5
       li 
         .lista-ol--cuadro__vineta.cuadro-peq
         | <b>Madurez de la caña</b>
-      p.mb-5 Las personas que han trabajado toda la vida con el cultivo de caña de azúcar, pueden determinar fácilmente su madurez de manera subjetiva, empleando conocimientos empíricos obtenidos por la experiencia, además de los sentidos para establecer que el fruto este en su punto, basado en el color de las hojas, grosor, dulzor, comportamiento del macollo o tallos de la caña.
-      p No obstante, existe otra técnica que requiere instrumentos como el refractómetro, este proceso es objetivo, técnico, seguro y confiable para establecer el índice de inmadurez (IM) de la caña. El análisis de la sacarosa por medio del índice de refracción determina la concentración de azúcar en la caña por la densidad óptica, al determinar el Brix (Quezada, 2007), (Fernández del Campo, 2019), (SAGARPA, 2015)
+    p.my-3 Las personas que han trabajado toda la vida con el cultivo de caña de azúcar, pueden determinar fácilmente su madurez de manera subjetiva, empleando conocimientos empíricos obtenidos por la experiencia, además de los sentidos para establecer que el fruto este en su punto, basado en el color de las hojas, grosor, dulzor, comportamiento del macollo o tallos de la caña.
+    p No obstante, existe otra técnica que requiere instrumentos como el refractómetro, este proceso es objetivo, técnico, seguro y confiable para establecer el índice de inmadurez (IM) de la caña. El análisis de la sacarosa por medio del índice de refracción determina la concentración de azúcar en la caña por la densidad óptica, al determinar el Brix (Quezada, 2007), (Fernández del Campo, 2019), (SAGARPA, 2015)
       
-    .tarjeta.tarjeta-rosa.p-4.mb-5
+    .tarjeta.tarjeta-amarillo.p-4.mb-5.mr-custom-ri  
       .row(numero="1" titulo="Praesent luctus")
-        .col-md-6.mb-4.mb-md-0
-          h4 Determinación del Brix terminal
-          p.mb-5 Iniciar desde la primera hoja superior, se cuentan hacia abajo ocho hojas, allí se extrae el jugo y se miden los grados Brix
-          h4 Determinación del Brix basal
+        .col-md-8.mb-4.mb-md-0
+          h4.textRed Determinación del Brix terminal
+          p.mb-5 Iniciar desde la primera hoja superior, se cuentan hacia abajo ocho hojas, allí se extrae el jugo y se miden los grados Brix.
+
+          h4.textRed Determinación del Brix basal
           p.mb-3 De la parte inferior del tallo, se cuentan de tres a cinco nudos hacia arriba, se extrae jugo y se miden los grados Brix. 
           p.mb-5 Con ambos datos se despeja la siguiente ecuación:
-          img.mb-5(src='@/assets/curso/temas/T2/img-10.svg')
-          h4.mb-3 Los datos del índice de madurez se interpretan así:
-          img(src='@/assets/curso/temas/T2/img-11.svg')
+
+          img.col-md-8.mb-4.mb-md-5(src='@/assets/curso/temas/T2/img-10.svg')
+          h4.mb-4.textRed Los datos del índice de madurez se interpretan así:
+          .row
+            .col-2 
+              p Menor a 85%
+            .col-4 
+              p.textRed ----------------------------------------------------
+            .col-4 
+              p.text-bold Tierna
+
+          .row
+            .col-2 
+              p 85 a 100%
+            .col-4 
+              p.textRed ----------------------------------------------------
+            .col-4 
+              p.text-bold Madura
+
+          .row
+            .col-2 
+              p Mayor a 100%
+            .col-4 
+              p.textRed ----------------------------------------------------
+            .col-4 
+              p.text-bold Sobremadura 
       
         .col-md-4
           figure
             img(src='@/assets/curso/temas/T2/img-12.svg')
 
-    .row
-      .col-lg-9
+    .row.mr-custom
+      .col-lg-12
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/temas/T2/img-13.svg')
@@ -116,7 +140,7 @@
               p A continuación, se presentan dos videos que permitirán identificar la forma correcta de utilizar el refractómetro.
               .row
               .col-lg-10
-                a.anexo.mb-4.mb-lg-2(href="https://www.youtube.com/watch?v=2zuPmiYahX0" target="_blank")
+                a.anexo.mb-4.mb-lg-2.mr-3-custom(href="https://www.youtube.com/watch?v=2zuPmiYahX0" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto
@@ -124,7 +148,7 @@
               
               .row
               .col-lg-10
-                a.anexo.mb-4.mb-lg-2(href="https://www.youtube.com/watch?v=xmKWOsCAaTM" target="_blank")
+                a.anexo.mb-4.mb-lg-2.mr-3-custom(href="https://www.youtube.com/watch?v=xmKWOsCAaTM" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto
@@ -145,7 +169,7 @@
               p Existen dos modalidades utilizadas para cosechar la caña: corte por parejo y el corte por entresaque o desguíe.
         p.mb-5 <b>A continuación, se presenta de manera general cada una de ellas.</b>
 
-      AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta-rosa").col-md-6
+      AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta-amarillo").col-md-6
         .row(titulo="Corte parejo")
           .col-md-4
             figure
