@@ -99,7 +99,7 @@
           p.mb-3 De la parte inferior del tallo, se cuentan de tres a cinco nudos hacia arriba, se extrae jugo y se miden los grados Brix. 
           p.mb-5 Con ambos datos se despeja la siguiente ecuación:
 
-          img.col-md-8.mb-4.mb-md-5(src='@/assets/curso/temas/T2/img-10.svg')
+          img.col-md-4.mb-4.mb-md-5(src='@/assets/curso/temas/T2/img-10.svg')
           h4.mb-4.textRed Los datos del índice de madurez se interpretan así:
           .row
             .col-2 
@@ -129,31 +129,29 @@
           figure
             img(src='@/assets/curso/temas/T2/img-12.svg')
 
-    .row.mr-custom
-      .col-lg-12
-        .tarjeta-avatar-b.mb-5
-          .tarjeta-avatar-b__img
-            img(src='@/assets/curso/temas/T2/img-13.svg')
-          .tarjeta
-            .p-4
-              h2 Material complementario 
-              p A continuación, se presentan dos videos que permitirán identificar la forma correcta de utilizar el refractómetro.
-              .row
-              .col-lg-10
-                a.anexo.mb-4.mb-lg-2.mr-3-custom(href="https://www.youtube.com/watch?v=2zuPmiYahX0" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p <b>Enlace web:</b>  Refractómetro 0 32 BRIX, Liberty Lab, determinación de Azúcares
-              
-              .row
-              .col-lg-10
-                a.anexo.mb-4.mb-lg-2.mr-3-custom(href="https://www.youtube.com/watch?v=xmKWOsCAaTM" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p <b>Enlace web:</b> Universidad Politécnica de Cartagena UPCT. Determinación de azúcares
-    ol.lista-ol--cuadro
+    .row.mt-5.d-flex.justify-content-center.align-items-center
+      .col-lg-4
+        img(src='@/assets/curso/temas/T2/img-13.svg')
+      .col-lg-6
+        
+        h2 Material complementario 
+        p A continuación, se presentan dos videos que permitirán identificar la forma correcta de utilizar el refractómetro.
+        .row
+        .col-lg-10
+          a.anexo.mb-4.mb-lg-2.mr-3-custom(href="https://www.youtube.com/watch?v=2zuPmiYahX0" target="_blank")
+            .anexo__icono
+              img(src="@/assets/template/icono-link.svg")
+            .anexo__texto
+              p <b>Enlace web:</b>  Refractómetro 0 32 BRIX, Liberty Lab, determinación de Azúcares
+        
+        .row
+        .col-lg-10
+          a.anexo.mb-4.mb-lg-2.mr-3-custom(href="https://www.youtube.com/watch?v=xmKWOsCAaTM" target="_blank")
+            .anexo__icono
+              img(src="@/assets/template/icono-link.svg")
+            .anexo__texto
+              p <b>Enlace web:</b> Universidad Politécnica de Cartagena UPCT. Determinación de azúcares
+    ol.lista-ol--cuadro.mt-5
       li 
         .lista-ol--cuadro__vineta.cuadro-peq
         | <b>Corte de caña</b>
@@ -167,28 +165,33 @@
             .col.mb-3.mb-sm-0
               p.mb-5 El corte de la caña debe realizarse cuando alcanza la madurez adecuada, esto significa que la concentración de azúcar (sacarosa) y el contenido de sólidos solubles son elevados. No se recomienda el corte de cañas inmaduras o sobre maduradas porque el rendimiento es menor e influye negativamente en la panela (Amanda & Marcillo, 2002).
               p Existen dos modalidades utilizadas para cosechar la caña: corte por parejo y el corte por entresaque o desguíe.
-        p.mb-5 <b>A continuación, se presenta de manera general cada una de ellas.</b>
-
-      AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta-amarillo").col-md-6
-        .row(titulo="Corte parejo")
-          .col-md-4
-            figure
-              img(src='@/assets/curso/temas/T2/img-15.svg')
-          .col-md-6.mb-4.mb-md-0
-            p <b>Modalidad asociada con el sistema de producción tecnificado, manejado por lotes, donde se espera que la plantación esté madura (sazonada) para cortarla totalmente.</b> Se debe realizar principalmente en terrenos planos o de inclinación moderada. La ventaja del corte, permite cortar todo el cultivo o cañas y así reajustar los rendimientos (Quezada, 2007). La caña madura cortada no se debe dejar por más de tres días almacenada ya que aumenta el contenido de azúcares reductores, lo cual afecta el proceso de eficacia del proceso de limpieza y el producto panelero presentaría una consistencia blanda (Amanda & Marcillo, 2002).
-            p.mb-5 <b>Las buenas prácticas en la plantación permiten planificar siembras, para lograr lotes que permitan cosechar continuamente y evitar la sobre maduración de la caña.</b>
-
-            
-        .row(titulo="Corte por entresaque o desguíe ")
-          .col-md-2
-            figure
-              img(src='@/assets/curso/temas/T2/img-16.svg')
-          .col-md-9.mb-4.mb-md-0
-            p <b>Es la práctica más generalizada </b> entre los pequeños productores que utilizan el sistema de siembra mateado (por matas), que generalmente se práctica en zonas de laderas.
-            p.mb-5 <b>El proceso del corte consiste en cortar las cañas maduras, permitiendo el crecimiento y desarrollo de las que han sido tiernas,</b> esto para su posterior cosecha, esta técnica tiene una ventaja de obtención de jugos sólidos solubles. Se puede concluir que el sistema es bueno, porque se puede repetir durante todo el año, presenta una desventaja, que implica invertir más tiempo y dinero, teniendo en cuenta que  las cañas maduras se presentarán todo el año. Se debe tener precaución de no cortar las cañas tiernas o sobre maduras porque se vería afectada la calidad de la panela, a causa de eso el azucares no sería sacarosa, sino invertidos de la caña o azúcares reductores (Quezada, 2007)
-      .col-8.col-sm-6.col-md-4.mb-4.mb-md-0
+    
+      
+    p.mb-5 <b>A continuación, se presenta de manera general cada una de ellas.</b>
+    .row 
+      .col-4 
         figure
           img(src='@/assets/curso/temas/T2/img-17.svg')
+      .col-8
+        AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta-amarillo")
+          .row(titulo="Corte parejo")
+            .col-md-4
+              figure
+                img(src='@/assets/curso/temas/T2/img-15.svg')
+            .col-md-8.mb-4.mb-md-0
+              p <b>Modalidad asociada con el sistema de producción tecnificado, manejado por lotes, donde se espera que la plantación esté madura (sazonada) para cortarla totalmente.</b> Se debe realizar principalmente en terrenos planos o de inclinación moderada. La ventaja del corte, permite cortar todo el cultivo o cañas y así reajustar los rendimientos (Quezada, 2007). La caña madura cortada no se debe dejar por más de tres días almacenada ya que aumenta el contenido de azúcares reductores, lo cual afecta el proceso de eficacia del proceso de limpieza y el producto panelero presentaría una consistencia blanda (Amanda & Marcillo, 2002).
+              p.mb-5 <b>Las buenas prácticas en la plantación permiten planificar siembras, para lograr lotes que permitan cosechar continuamente y evitar la sobre maduración de la caña.</b>
+
+              
+          .row(titulo="Corte por entresaque o desguíe ")
+            .col-md-3
+              figure
+                img(src='@/assets/curso/temas/T2/img-16.svg')
+            .col-md-8.mb-4.mb-md-0
+              p <b>Es la práctica más generalizada </b> entre los pequeños productores que utilizan el sistema de siembra mateado (por matas), que generalmente se práctica en zonas de laderas.
+              p.mb-5 <b>El proceso del corte consiste en cortar las cañas maduras, permitiendo el crecimiento y desarrollo de las que han sido tiernas,</b> esto para su posterior cosecha, esta técnica tiene una ventaja de obtención de jugos sólidos solubles. Se puede concluir que el sistema es bueno, porque se puede repetir durante todo el año, presenta una desventaja, que implica invertir más tiempo y dinero, teniendo en cuenta que  las cañas maduras se presentarán todo el año. Se debe tener precaución de no cortar las cañas tiernas o sobre maduras porque se vería afectada la calidad de la panela, a causa de eso el azucares no sería sacarosa, sino invertidos de la caña o azúcares reductores (Quezada, 2007)
+    
+        
       Separador
 
       .titulo-segundo.color-acento-contenido.mb-5
