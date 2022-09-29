@@ -8,29 +8,29 @@
       h1 Requerimientos técnicos y normativos
 
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
-      .bloque-texto-g__img(
+      .bloque-texto-g__img(data-aos='fade-right')(
         :style="{'background-image': `url(${require('@/assets/curso/temas/T1/img-1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 En Colombia la cultura gastronómica emplea la panela para la producción de alimentos, se encuentra en: bebidas, postres, platos fuertes, en otros; por ello la importancia no sólo de conocer la variedad de usos como producto natural orgánico de alta fuente nutritiva, si no también entender la producción, abarcando los requerimientos para el procesamiento, embalaje y almacenamiento.
 
-    .titulo-segundo.color-acento-contenido.mb-5
+    #t_1_1.titulo-segundo.color-acento-contenido.mb-5
       h2 1.1 Interpretación de documentos
 
     .tarjeta.tarjeta-amarillo.p-4.mb-5
       .row
         .col-md-9.mb-3.mb-md-0
-          p.mb-5 A nivel nacional, el sector panelero se caracteriza por la importancia en la producción agropecuaria, por ello; se ha convertido en el eje central de la economía campesina de pequeños y grandes productores. Las costumbres en el proceso de fabricación, así como ser uno de los alimentos principales en la canasta familiar, que han perdurado por generaciones.
-          p.mb-5 La tradición en la cocción de la panela se mantiene vigentes con el paso del tiempo. No obstante, desde la entrada en vigencia de la resolución 779 de 2006, considerada como la principal normativava del contexto productivo, este gremio se enfrenta a nuevas políticas cómo: iintroducir tecnología de punta, habituar las prácticas técnicas, mejoras en la infraestructura y aspectos físicos en los trapiches; sumando a la preocupación en la preservación del bienestar de los actores del proceso.
-          p.mb-5 De acuerdo con lo anterior, es importante analizar el marco legal para el sistema de producción panelera, identificando y entendiendo las políticas de estricto cumplimiento para la obtención de la panela en óptimas condiciones para la venta y consumo, sin dejar de lado las buenas prácticas de manufactura donde prime el bienestar del trabajador.
+          p A nivel nacional, el sector panelero se caracteriza por la importancia en la producción agropecuaria, por ello; se ha convertido en el eje central de la economía campesina de pequeños y grandes productores. Las costumbres en el proceso de fabricación, así como ser uno de los alimentos principales en la canasta familiar, que han perdurado por generaciones.
+          p La tradición en la cocción de la panela se mantiene vigentes con el paso del tiempo. No obstante, desde la entrada en vigencia de la resolución 779 de 2006, considerada como la principal normativava del contexto productivo, este gremio se enfrenta a nuevas políticas cómo: iintroducir tecnología de punta, habituar las prácticas técnicas, mejoras en la infraestructura y aspectos físicos en los trapiches; sumando a la preocupación en la preservación del bienestar de los actores del proceso.
+          p De acuerdo con lo anterior, es importante analizar el marco legal para el sistema de producción panelera, identificando y entendiendo las políticas de estricto cumplimiento para la obtención de la panela en óptimas condiciones para la venta y consumo, sin dejar de lado las buenas prácticas de manufactura donde prime el bienestar del trabajador.
       
-        .col-md-3
+        .col-md-3(data-aos='fade-left')
           figure
-            img(src='@/assets/curso/temas/T1/img-1.svg')
+            img(src='@/assets/curso/temas/T1/img-1.svg', alt='Campesino')
 
     Separador
 
-    .titulo-segundo.color-acento-contenido.mb-5
+    #t_1_2.titulo-segundo.color-acento-contenido.mb-5
       h2 1.2 Normas de producción panelera
     
     p.mb-5 <b>A continuación, se presentan las normas que rigen la producción panelera en Colombia. </b>
@@ -135,7 +135,7 @@
 
     Separador
     
-    .titulo-segundo.color-acento-contenido.mb-5
+    #t_1_3.titulo-segundo.color-acento-contenido.mb-5
         h2 1.3 Industria panelera
 
     p.mb-5 <b>En el siguiente apartado, se dan a conocer las normas que rigen la industria panelera en Colombia. </b>

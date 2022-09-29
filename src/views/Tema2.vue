@@ -45,7 +45,7 @@
               
     Separador
 
-    .titulo-segundo.color-acento-contenido.mb-5
+    #t_2_1.titulo-segundo.color-acento-contenido.mb-5
       h2 2.1.	Características de la caña
     p.mb-5 <b>A continuación, conocerá las características más representativas de la caña.</b>
 
@@ -65,7 +65,10 @@
           .col-md-5
             figure
               .titulo-sexto.color-acento-contenido
-                p <b>figura 1:</b> Etapas del cultivo de caña 
+                p 
+                  b Figura 1.
+                  br
+                  em Etapas del cultivo de caña 
               img(src='@/assets/curso/temas/T2/img-7.svg')
         .row
           .col-md-6.mb-4.mb-md-0.mr-custom
@@ -79,7 +82,10 @@
           .col-md-5
             figure
               .titulo-sexto.color-acento-contenido
-                p <b>figura 2:</b> Variedadesde la caña 
+                p.mb-0 
+                  b Figura 2.
+                  br
+                  em Variedades de la caña 
               img(src='@/assets/curso/temas/T2/img-9.svg')
     
     ol.lista-ol--cuadro.mb-5
@@ -169,10 +175,10 @@
       
     p.mb-5 <b>A continuación, se presenta de manera general cada una de ellas.</b>
     .row 
-      .col-4 
+      .col-3 
         figure
           img(src='@/assets/curso/temas/T2/img-17.svg')
-      .col-8
+      .col-9
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta-amarillo")
           .row(titulo="Corte parejo")
             .col-md-4
@@ -194,7 +200,7 @@
         
       Separador
 
-      .titulo-segundo.color-acento-contenido.mb-5
+      #t_2_2.titulo-segundo.color-acento-contenido.mb-5
         h2 2.2.	Azúcares 
 
       p.mb-5 A continuación, se presentan algunos de los elementos constitutivos de la caña. Se sugiere estudiarlos con detenimiento.
@@ -208,7 +214,10 @@
           .col-md-11
             figure
             .titulo-sexto.color-acento-contenido
-                p <b>figura 1:</b> Etapas del cultivo de caña 
+              p 
+                b Tabla 1.
+                br
+                em Composición de la caña de azúcar 
             img(src='@/assets/curso/temas/T2/img-18.svg')
             figcaption Tomada de: (Quezada, 2007)
               

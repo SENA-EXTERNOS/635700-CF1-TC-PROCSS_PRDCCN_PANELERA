@@ -14,7 +14,7 @@
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    .titulo-segundo.color-acento-contenido.mb-5
+    #t_3_1.titulo-segundo.color-acento-contenido.mb-5
       h2 3.1.	Floculantes 
 
     p.mb-5 El proceso para la limpieza del jugo de caña se hace a través de medios físicos, este evento se conoce como descachazado, aunque presenta algunos problemas debido a la necesidad de realizar limpiezas constantes y una remoción periódica de material floculante de acuerdo con la temperatura existente en la paila recibidora.
@@ -62,13 +62,13 @@
             h4 Limpieza y mantenimiento
             p.mb-5 La materia prima debe estar limpia, libre de residuos de tierra, restos de contaminantes y material que viene con la caña, posteriormente se debe sumergir en una solución de agua con cloro produciendo el lavado. Todos los equipos requeridos en el proceso de producción panelera, requieren un adecuado mantenimiento e higiene mínimo cada 6 horas, con el fin de evitar la fermentación de los jugos, evitando el deterioro de la calidad de la panela.
 
-    .titulo-segundo.color-acento-contenido.mb-5
+    #t_3_2.titulo-segundo.color-acento-contenido.mb-5
       h2 3.2.	Residuos
 
     
     .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5
       .row.m-0.align-items-center.justify-content-between
-        .col-lg-4.mb-4.mb-lg-0
+        .col-lg-4(data-aos='fade-right')
           figure
             img(src='@/assets/curso/temas/T3/img-5.svg')
         .col-lg-8
@@ -109,19 +109,23 @@
         | <b>Manejo y calentamiento de jugos</b>
       p.mb-5 A continuación, se presenta el manejo que debe darse a los jugos de la caña. 
 
+    .row.mt-5
+      .col-8 
+        AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta-rosa")
+          .row(titulo="Manejo de jugos")
+            .col-md-12.mb-4.mb-md-0
+              p.mb-5 Existen varias formas de pasar los jugos por medio de flujos a través de la hornilla; paralelo, contracorriente y mixto, todo esto depende de la tecnología y costumbres regionales.
+
+          .row(titulo="Calentamiento de jugos")
+            .col-md-12.mb-4.mb-md-0
+              p.mb-5 Al terminar la pre limpieza se obtiene el jugo sin clarificar, el cual pasa directamente al fondo o paila recibidora a una temperatura ambiente, luego se inicia el calentamiento hasta los 55 oC, esta permite la aceleración de la velocidad del movimiento del jugo facilitando la formación de partículas de gran tamaño y densidad, las cuales deben ser removidas por procesos físicos.
+        
+      .col-4
+        figure
+          img(src='@/assets/curso/temas/T3/img-7.svg')
+        
   
-
-      AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta-rosa").col-md.col-lg-6
-        .row(titulo="Manejo de jugos")
-          .col-md-9.mb-4.mb-md-0
-            p.mb-5 Existen varias formas de pasar los jugos por medio de flujos a través de la hornilla; paralelo, contracorriente y mixto, todo esto depende de la tecnología y costumbres regionales.
-
-        .row(titulo="Calentamiento de jugos")
-          .col-md-9.mb-4.mb-md-0
-            p.mb-5 Al terminar la pre limpieza se obtiene el jugo sin clarificar, el cual pasa directamente al fondo o paila recibidora a una temperatura ambiente, luego se inicia el calentamiento hasta los 55 oC, esta permite la aceleración de la velocidad del movimiento del jugo facilitando la formación de partículas de gran tamaño y densidad, las cuales deben ser removidas por procesos físicos.
-    .col-8.col-sm-6.col-md-4.mb-4.mb-md-5
-      figure
-        img(src='@/assets/curso/temas/T3/img-7.svg')
+      
     
     ol.lista-ol--cuadro
       li 
@@ -155,7 +159,10 @@
           .col-md-6
             figure
               .titulo-sexto.color-acento-contenido
-                  p <b>Tabla 1:</b> Composición del proceso de clarificación
+                p 
+                  b Tabla 2.
+                  br
+                  em Composición del proceso de clarificación
               img(src='@/assets/curso/temas/T3/img-10.svg', alt='Texto que describa la imagen')
 
         .row
@@ -173,10 +180,13 @@
 
     figure.mb-5
       .titulo-sexto.color-acento-contenido
-          p <b>Tabla 1:</b> Composición del proceso de clarificación
+        p 
+          b Figura 3.
+          br
+          em Extracción y forma de aplicación del mucílago
       img(src='@/assets/curso/temas/T3/img-12.svg', alt='Texto que describa la imagen')
 
-    .titulo-segundo.color-acento-contenido.mb-5
+    #t_3_3.titulo-segundo.color-acento-contenido.mb-5
       h2 3.3.	Buenas prácticas de manufactura
 
     .row
@@ -190,8 +200,9 @@
               p Las buenas prácticas de manufactura, contribuyen en el sector panelero mediante la mejora continua de la industria a través del trabajo ocupacional y ambiental, que lleva a minimizar dichos riesgos, lo que se refleja en menores costos de producción y fortalece la rentabilidad del producto y la optimización del mismo. (Investigaci et al., 2003).
     .row
       .col-6-lg-6
-        .cajon.color-acento-contenido.p-4.mb-5
+        .cajon.color-acento-botones.p-4.mb-5
           p <b>¡Muy bien!</b> Ha finalizado el estudio de este componente formativo a través del cual ha aprendido sobre los procedimientos técnicos de producción panelera. Ahora lo invitamos a estudiar la síntesis donde podrá recordar de forma general los saberes que se han desarrollado, a realizar la actividad de aprendizaje donde podrá colocar a prueba lo aprendido, consultar el material complementario que le servirá como refuerzo y profundización y estudiar el glosario.  
+
 </template>
 
 <script>
