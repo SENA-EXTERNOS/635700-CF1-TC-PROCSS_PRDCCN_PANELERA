@@ -51,7 +51,7 @@
 
     .tarjeta.tarjeta-rosa.p-4.mb-5
       SlyderA(tipo="b")
-        .row
+        .row.align-items-center
           .col-md-6.mb-4.mb-md-0.mr-custom
             p.mb-5 La caña se cultiva en climas tropicales y subtropicales y tiene la habilidad de adaptación en zonas que van desde el nivel del mar hasta los 2200 msnm (metros sobre el nivel del mar).
         
@@ -65,7 +65,7 @@
           .col-md-5
             figure
               .titulo-sexto.color-acento-contenido
-                p 
+                p.mb-0 
                   b Figura 1.
                   br
                   em Etapas del cultivo de caña 
@@ -96,7 +96,7 @@
     p No obstante, existe otra técnica que requiere instrumentos como el refractómetro, este proceso es objetivo, técnico, seguro y confiable para establecer el índice de inmadurez (IM) de la caña. El análisis de la sacarosa por medio del índice de refracción determina la concentración de azúcar en la caña por la densidad óptica, al determinar el Brix (Quezada, 2007), (Fernández del Campo, 2019), (SAGARPA, 2015)
       
     .tarjeta.tarjeta-amarillo.p-4.mb-5.mr-custom-ri  
-      .row(numero="1" titulo="Praesent luctus")
+      .row.align-items-end(numero="1" titulo="Praesent luctus")
         .col-md-8.mb-4.mb-md-0
           h4.textRed Determinación del Brix terminal
           p.mb-5 Iniciar desde la primera hoja superior, se cuentan hacia abajo ocho hojas, allí se extrae el jugo y se miden los grados Brix.
@@ -142,25 +142,24 @@
         
         h2 Material complementario 
         p A continuación, se presentan dos videos que permitirán identificar la forma correcta de utilizar el refractómetro.
-        .row
-        .col-lg-10
-          a.anexo.mb-4.mb-lg-2.mr-3-custom(href="https://www.youtube.com/watch?v=2zuPmiYahX0" target="_blank")
-            .anexo__icono
-              img(src="@/assets/template/icono-link.svg")
-            .anexo__texto
-              p <b>Enlace web:</b>  Refractómetro 0 32 BRIX, Liberty Lab, determinación de Azúcares
-        
-        .row
-        .col-lg-10
-          a.anexo.mb-4.mb-lg-2.mr-3-custom(href="https://www.youtube.com/watch?v=xmKWOsCAaTM" target="_blank")
-            .anexo__icono
-              img(src="@/assets/template/icono-link.svg")
-            .anexo__texto
-              p <b>Enlace web:</b> Universidad Politécnica de Cartagena UPCT. Determinación de azúcares
-    ol.lista-ol--cuadro.mt-5
-      li 
-        .lista-ol--cuadro__vineta.cuadro-peq
-        | <b>Corte de caña</b>
+        .row.mb-5
+          .col-lg-10
+            a.anexo.mb-4.mb-lg-2.mr-3-custom(href="https://www.youtube.com/watch?v=2zuPmiYahX0" target="_blank")
+              .anexo__icono
+                img(src="@/assets/template/icono-link.svg")
+              .anexo__texto
+                p <b>Enlace web:</b>  Refractómetro 0 32 BRIX, Liberty Lab, determinación de Azúcares
+          
+          
+          .col-lg-10.mx-auto
+            a.anexo.mb-4.mb-lg-2.mr-3-custom(href="https://www.youtube.com/watch?v=xmKWOsCAaTM" target="_blank")
+              .anexo__icono
+                img(src="@/assets/template/icono-link.svg")
+              .anexo__texto
+                p <b>Enlace web:</b> Universidad Politécnica de Cartagena UPCT. Determinación de azúcares
+    h3 
+      i.fas.fa-square.cac.me-4
+      | Corte de caña
     
     .p-3.mb-5
       .row.justify-content-around.align-items-center
@@ -207,14 +206,14 @@
 
     TabsC.color-acento-contenido
       .py-3.py-md-4(titulo="Azúcares")
-        .row
+        .row.align-items-center
           .col-md-11.mb-4.mb-md-0
             p.mb-5 La composición de la caña principalmente es agua, seguido de fibra y sólidos solubles, también de elementos trazas que son aquellos que se encuentran en bajas concentraciones o cantidades, como en el caso de los minerales, proteínas y ceras. En la siguiente tabla se muestra la composición de la caña de azúcar.
         
           .col-md-11
             figure
             .titulo-sexto.color-acento-contenido
-              p 
+              p.mb-0 
                 b Tabla 1.
                 br
                 em Composición de la caña de azúcar 
@@ -222,41 +221,37 @@
             figcaption Tomada de: (Quezada, 2007)
               
       .py-3.py-md-4(titulo="Carbohidratos")
-        .row
+        .row.align-items-center
           .col-md-6.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/T2/img-19.svg')
           .col-md-6
-            h4 Carbohidratos
-            p.mb-5 También se conoce como sacáridos, son compuestos esenciales de los organismos vivos de los cuales se obtiene energía para llevar a cabo las funciones vitales del diario vivir. Son la clase de compuestos esenciales más abundante de moléculas biológicas. El nombre carbohidratos significa literalmente hidratos de carbono y proviene de su composición química, que para muchos de ellos es (C·H2O). Estos compuestos están formados por átomos de carbono, hidrógeno y oxígeno con una característica importante, son solubles en agua.
+            p También se conoce como sacáridos, son compuestos esenciales de los organismos vivos de los cuales se obtiene energía para llevar a cabo las funciones vitales del diario vivir. Son la clase de compuestos esenciales más abundante de moléculas biológicas. El nombre carbohidratos significa literalmente hidratos de carbono y proviene de su composición química, que para muchos de ellos es (C·H2O). Estos compuestos están formados por átomos de carbono, hidrógeno y oxígeno con una característica importante, son solubles en agua.
             p Los carbohidratos se clasifican en: monosacáridos, disacáridos y polisacáridos. 
         
       .py-3.py-md-4(titulo="Monosacáridos")
-        .row
+        .row.align-items-center
           .col-md-6.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/T2/img-20.svg')
           .col-md-6
-            h4 Monosacáridos
             p.mb-5 Son las unidades básicas de los carbohidratos, no hidrolizables en unidades más pequeñas. Como ejemplo esta la glucosa, es el carbohidrato más abundante en la naturaleza; tiene 6 átomos de carbono y es la molécula para generar energía, el combustible principal para la mayoría de los organismos. La fructosa, es responsable del sabor dulce de muchos frutos.
 
       .py-3.py-md-4(titulo="Disacáridos")
-        .row
+        .row.align-items-center
           .col-md-6.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/T2/img-21.svg')
           .col-md-6
-            h4 Disacáridos
-            p.mb-5 Son estructuras diméricas formadas por dos moléculas de monosacáridos, que pueden ser iguales o diferentes, ellas se unen por medio de un enlace llamado glucosídico, el cual se puede romper fácilmente, como ejemplo de los disacáridos encontramos <b>la sacarosa,</b> , que constituye principalmente la dieta de los seres vivos. Tiene una producción que supera los 60 millones de toneladas anuales, procedente de la caña de azúcar como principal fuente o la remolacha.
+            p Son estructuras diméricas formadas por dos moléculas de monosacáridos, que pueden ser iguales o diferentes, ellas se unen por medio de un enlace llamado glucosídico, el cual se puede romper fácilmente, como ejemplo de los disacáridos encontramos <b>la sacarosa,</b> , que constituye principalmente la dieta de los seres vivos. Tiene una producción que supera los 60 millones de toneladas anuales, procedente de la caña de azúcar como principal fuente o la remolacha.
         
       
       .py-3.py-md-4(titulo="Polisacáridos")
-        .row
+        .row.align-items-center
           .col-md-6.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/T2/img-22.svg')
           .col-md-6
-            h4 Polisacáridos
             p.mb-5 Están constituidos por gran número de unidades de monosacáridos enlazados de manera covalente. Los polisacáridos desempeñan dos funciones biológicas principales: algunos almacenan energía metabólica como el glucógeno y otros sirven de elementos estructurales a la célula como la celulosa (León, 2008).
 
 </template>
