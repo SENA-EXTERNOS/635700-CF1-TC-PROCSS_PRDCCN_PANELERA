@@ -46,7 +46,7 @@
     Separador
 
     #t_2_1.titulo-segundo.color-acento-contenido.mb-5
-      h2 2.1.	Características de la caña
+      h2 2.1	Características de la caña
     p.mb-5 <b>A continuación, conocerá las características más representativas de la caña.</b>
 
     .tarjeta.tarjeta-rosa.p-4.mb-5
@@ -199,7 +199,7 @@
       Separador
 
       #t_2_2.titulo-segundo.color-acento-contenido.mb-5
-        h2 2.2.	Azúcares 
+        h2 2.2	Azúcares 
 
       p.mb-5 A continuación, se presentan algunos de los elementos constitutivos de la caña. Se sugiere estudiarlos con detenimiento.
 

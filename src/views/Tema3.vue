@@ -17,7 +17,7 @@
     Separador
 
     #t_3_1.titulo-segundo.color-acento-contenido.mb-5
-      h2 3.1.	Floculantes 
+      h2 3.1	Floculantes 
 
     p.mb-5 El proceso para la limpieza del jugo de caña se hace a través de medios físicos, este evento se conoce como descachazado, aunque presenta algunos problemas debido a la necesidad de realizar limpiezas constantes y una remoción periódica de material floculante de acuerdo con la temperatura existente en la paila recibidora.
     p A continuación, se presenta cada uno de los momentos que constituye este proceso:
@@ -63,7 +63,7 @@
     Separador
 
     #t_3_2.titulo-segundo.color-acento-contenido.mb-5
-      h2 3.2.	Residuos
+      h2 3.2	Residuos
     
     .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5
       .row.m-0.align-items-center.justify-content-between
@@ -185,7 +185,7 @@
     Separador
 
     #t_3_3.titulo-segundo.color-acento-contenido.mb-5
-      h2 3.3.	Buenas prácticas de manufactura
+      h2 3.3	Buenas prácticas de manufactura
 
     .row
       .col-lg-12
