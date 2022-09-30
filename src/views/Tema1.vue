@@ -13,7 +13,9 @@
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 En Colombia la cultura gastronómica emplea la panela para la producción de alimentos, se encuentra en: bebidas, postres, platos fuertes, en otros; por ello la importancia no sólo de conocer la variedad de usos como producto natural orgánico de alta fuente nutritiva, si no también entender la producción, abarcando los requerimientos para el procesamiento, embalaje y almacenamiento.
-
+        
+    Separador
+    
     #t_1_1.titulo-segundo.color-acento-contenido.mb-5
       h2 1.1 Interpretación de documentos
 

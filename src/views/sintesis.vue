@@ -5,7 +5,7 @@
 
     figure.mb-5
       .titulo-sexto.color-secundario
-        p 
+        p.mb-0 
           h3 Proceso de producción panelera
           em Síntesis: Procedimientos técnicos de producción panelera
 
@@ -13,7 +13,7 @@
 
     figure.mb-5
       .titulo-sexto.color-acento-contenido
-        p 
+        p.mb-0 
           b Figura 4.
           br
           em Procedimientos técnicos en producción panelera

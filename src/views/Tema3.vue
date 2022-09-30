@@ -13,6 +13,8 @@
         figure
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    
+    Separador
 
     #t_3_1.titulo-segundo.color-acento-contenido.mb-5
       h2 3.1.	Floculantes 
@@ -22,7 +24,7 @@
 
     TabsC.color-acento-contenido.mb-5
       .py-3.py-md-4(titulo="Corte y aponte de la caña ")
-          .row
+          .row.align-items-center.justify-content-between
             .col-md-6.mb-4.mb-md-0
               figure
                 img(src='@/assets/curso/temas/T3/img-1.svg')
@@ -57,6 +59,8 @@
               img(src='@/assets/curso/temas/T3/img-4.svg')
           .col-md-6
             p La materia prima debe estar limpia, libre de residuos de tierra, restos de contaminantes y material que viene con la caña, posteriormente se debe sumergir en una solución de agua con cloro produciendo el lavado. Todos los equipos requeridos en el proceso de producción panelera, requieren un adecuado mantenimiento e higiene mínimo cada 6 horas, con el fin de evitar la fermentación de los jugos, evitando el deterioro de la calidad de la panela.
+    
+    Separador
 
     #t_3_2.titulo-segundo.color-acento-contenido.mb-5
       h2 3.2.	Residuos
@@ -72,11 +76,11 @@
             p Generalmente, están hechos de bagazo, bagacillo, cachaza y el aguamiel.
             p A continuación, se presentan cada una de las etapas donde se detalla este proceso y el residuo que se produce del mismo.
 
-    ol.lista-ol--cuadro
-      li 
-        .lista-ol--cuadro__vineta.cuadro-peq
-        | <b>Clarificación, evaporación y concentración de jugos</b>
-      p.mb-5 Las etapas de clarificación, evaporación y concentración se llevan a cabo en la hornilla y horno, el cual suministra el calor necesario para evaporar más del 90% del agua contenida en el guarapo para la obtención de la panela.
+    h3 
+      i.fas.fa-square.cac.me-4
+      | Clarificación, evaporación y concentración de jugos
+
+    p Las etapas de clarificación, evaporación y concentración se llevan a cabo en la hornilla y horno, el cual suministra el calor necesario para evaporar más del 90% del agua contenida en el guarapo para la obtención de la panela.
 
     ImagenInfografica.color-acento-botones.mb-5
       template(v-slot:imagen)
@@ -98,11 +102,10 @@
         .h5.mb-2 Pailas
         p Las pailas o fondos son estructuras metálicas que reciben los jugos y transfieren el calor necesario para realizar la clasificación, evaporación y concentración.  
     
-    ol.lista-ol--cuadro
-      li 
-        .lista-ol--cuadro__vineta.cuadro-peq
-        | <b>Manejo y calentamiento de jugos</b>
-      p.mb-5 A continuación, se presenta el manejo que debe darse a los jugos de la caña. 
+    h3 
+      i.fas.fa-square.cac.me-4
+      | Manejo y calentamiento de jugos
+    p.mb-5 A continuación, se presenta el manejo que debe darse a los jugos de la caña. 
 
     .row.mt-5
       .col-8 
@@ -122,16 +125,15 @@
   
       
     
-    ol.lista-ol--cuadro
-      li 
-        .lista-ol--cuadro__vineta.cuadro-peq
-        | <b>Clarificación</b>
-      p.mb-5 En este paso se eliminan los sólidos en suspensión, las sustancias coloides y algunos compuestos colorantes presentes en los jugos, especialmente los que se generan en el proceso de elaboración, debido a la aglomeración de partículas.
-      p <b>A continuación, se presentan cada una de las actividades que se deben desarrollar para esta fase.</b> 
+    h3 
+      i.fas.fa-square.cac.me-4
+      | <b>Clarificación</b>
+    p.mb-5 En este paso se eliminan los sólidos en suspensión, las sustancias coloides y algunos compuestos colorantes presentes en los jugos, especialmente los que se generan en el proceso de elaboración, debido a la aglomeración de partículas.
+    p <b>A continuación, se presentan cada una de las actividades que se deben desarrollar para esta fase.</b> 
 
     .tarjeta.tarjeta-rosa.p-4.mb-5
       SlyderA(tipo="b")
-        .row
+        .row.align-items-center.justify-content-between
           .col-md-6.mb-4.mb-md-0
             p Inicialmente se emplea la paila clarificadora de la hornilla, mediante la coagulación-floculación de las impurezas presentes en el jugo, por efecto combinado de la temperatura, tiempo y acción de los agentes clarificantes.
         
@@ -139,7 +141,7 @@
             figure
               img(src='@/assets/curso/temas/T3/img-8.svg', alt='Texto que describa la imagen')
 
-        .row
+        .row.align-items-center.justify-content-between
           .col-md-6.mb-4.mb-md-0
             p Los clarificantes se pueden dividir en químicos y naturales. Dentro de estos están: el sulfoclarol o hidrosulfito de sodio (Na2S2O4) conocido como ditionito de sodio o hiposulfito de sodio, también está la sementina, el carbonato de calcio o caliza (CaCO3), óxido de calcio o cal viva (CaO), hidróxido de calcio o cal apagada Ca (OH)2, entre otras. En los naturales hace referencia a las plantas utilizadas para purificar, como la cáscara de balso, raíz de abrojo y la yausabara.
         
@@ -147,20 +149,20 @@
             figure
               img(src='@/assets/curso/temas/T3/img-9.svg', alt='Texto que describa la imagen')
 
-        .row
+        .row.align-items-center.justify-content-between
           .col-md-6.mb-4.mb-md-0
             p Los clarificantes se pueden dividir en químicos y naturales. Dentro de estos están: el sulfoclarol o hidrosulfito de sodio (Na2S2O4) conocido como ditionito de sodio o hiposulfito de sodio, también está la sementina, el carbonato de calcio o caliza (CaCO3), óxido de calcio o cal viva (CaO), hidróxido de calcio o cal apagada Ca (OH)2, entre otras. En los naturales hace referencia a las plantas utilizadas para purificar, como la cáscara de balso, raíz de abrojo y la yausabara.
         
           .col-md-6
             figure
               .titulo-sexto.color-acento-contenido
-                p 
+                p.mb-0 
                   b Tabla 2.
                   br
                   em Composición del proceso de clarificación
               img(src='@/assets/curso/temas/T3/img-10.svg', alt='Texto que describa la imagen')
 
-        .row
+        .row.align-items-center.justify-content-between
           .col-md-6.mb-4.mb-md-0
             p Las impurezas que flotan, coloquialmente conocidas como cachaza negra, son retiradas manualmente y se depositan en las cachaceras; aquí se hace la remoción, separando los jugos de fondo del recipiente y luego regresan a la paila clarificadora para continuar el proceso, mientras la cachaza se lleva a la paila cachacera donde se concentra hasta formar el melote.
         
@@ -168,18 +170,19 @@
             figure
               img(src='@/assets/curso/temas/T3/img-11.svg', alt='Texto que describa la imagen')
         
-    ol.lista-ol--cuadro
-      li 
-        .lista-ol--cuadro__vineta.cuadro-peq
-        | <b>Extracción y forma de aplicación del mucílago</b>
+    h3 
+      i.fas.fa-square.cac.me-4
+      | Extracción y forma de aplicación del mucílago
 
     figure.mb-5
       .titulo-sexto.color-acento-contenido
-        p 
+        p.mb-0 
           b Figura 3.
           br
           em Extracción y forma de aplicación del mucílago
       img(src='@/assets/curso/temas/T3/img-12.svg', alt='Texto que describa la imagen')
+
+    Separador
 
     #t_3_3.titulo-segundo.color-acento-contenido.mb-5
       h2 3.3.	Buenas prácticas de manufactura
