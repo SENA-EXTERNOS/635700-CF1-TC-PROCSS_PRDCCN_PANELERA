@@ -207,7 +207,7 @@ export default {
         'Regla fija a la que está sometido un fenómeno de la naturaleza.',
     },
     {
-      termino: 'Materia prima:',
+      termino: 'Materia prima',
       significado:
         'Producto principal que forma parte de una fórmula. Se incorpora en la fórmula en mayor cantidad, para elaborar cierto producto.',
     },
