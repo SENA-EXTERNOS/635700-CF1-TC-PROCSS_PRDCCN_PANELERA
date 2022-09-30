@@ -3,13 +3,25 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    figure.mb-5
+      .titulo-sexto.color-secundario
+        p 
+          h3 Proceso de producción panelera
+          em Síntesis: Procedimientos técnicos de producción panelera
+
+    p En Colombia el sector productivo de panela se extiende en gran parte del territorio, llegando a sitios donde se convierte en el centro de la economía regional. El conocimiento empírico y las costumbres generacionales, han permitido que con el paso del tiempo y gracias a las innovaciones gastronómicas, los procesos productivos paneleros sigan vigentes. Gracias a la inclusión de buenas prácticas de manufactura y de avances normativos, el producto se mantiene libre de residuos y contaminantes, además se puede preservar por tiempo prolongado manteniendo el sabor, el color y la textura.
+
+    figure.mb-5
+      .titulo-sexto.color-acento-contenido
+        p 
+          b Figura 4.
+          br
+          em Procedimientos técnicos en producción panelera
 
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/sintesis.png", alt="alt")
       .col-auto
         a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
           .anexo__icono
