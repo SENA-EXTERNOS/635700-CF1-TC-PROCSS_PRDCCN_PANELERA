@@ -3,8 +3,8 @@
   BannerInterno(icono="fas fa-tasks" titulo="Actividad didáctica")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
-      a.boton.actividad-boton(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
-        span 
+
+      span 
         i.fas.fa-puzzle-piece
       h1 Actividad didáctica    
     .row.mb-5.justify-content-center.align-items-center.align-items-lg-stretch
@@ -23,7 +23,7 @@
             .col-sm.mb-3.mb-sm-0
               p.fw-bold.mb-0 Arrastrar y soltar
             .col-auto
-              a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
+              a.boton.boton--b(:href="obtenerLink('/actividades/story.html')" target="_blank")
                 span Realizar
                 i.fas.fa-puzzle-piece
                 
