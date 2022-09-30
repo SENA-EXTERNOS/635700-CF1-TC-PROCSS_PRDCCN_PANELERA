@@ -88,18 +88,18 @@
         figure
           img(src='@/assets/curso/temas/T3/img-6.svg')
 
-      .tarjeta.tarjeta-rosa.p-3(x="17%" y="98%" numero="1")
+      .tarjeta.tarjeta-amarillo.p-3(x="17%" y="98%" numero="1")
         .h5.mb-2 Cámara de combustión
         p Cámara de combustión, aquí se lleva a cabo el proceso de ignición entre el bagazo y el aire.
 
-      .tarjeta.tarjeta-rosa.p-3(x="63%" y="85%" numero="2")
+      .tarjeta.tarjeta-amarillo.p-3(x="63%" y="85%" numero="2")
         .h5.mb-2 Ducto de humos 
         p Ducto de humos o conducto de gases, transfiere parte del calor a los jugos a través de las pailas gracias al transporte de gases.
 
-      .tarjeta.tarjeta-rosa.p-3(x="90%" y="18%" numero="3")
+      .tarjeta.tarjeta-amarillo.p-3(x="90%" y="18%" numero="3")
         .h5.mb-2 Chimenea
         p Chimenea, crea el tiro necesario para la combustión del bagazo y el transporte de los gases a través del ducto.
-      .tarjeta.tarjeta-rosa.p-3(x="41%" y="65%" numero="4")
+      .tarjeta.tarjeta-amarillo.p-3(x="41%" y="65%" numero="4")
         .h5.mb-2 Pailas
         p Las pailas o fondos son estructuras metálicas que reciben los jugos y transfieren el calor necesario para realizar la clasificación, evaporación y concentración.  
     
@@ -111,7 +111,7 @@
 
     .row.mt-5
       .col-8 
-        AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta-rosa")
+        AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta-amarillo")
           .row(titulo="Manejo de jugos")
             .col-md-12.mb-4.mb-md-0
               p.mb-5 Existen varias formas de pasar los jugos por medio de flujos a través de la hornilla; paralelo, contracorriente y mixto, todo esto depende de la tecnología y costumbres regionales.
@@ -200,8 +200,9 @@
               p Las buenas prácticas de manufactura, contribuyen en el sector panelero mediante la mejora continua de la industria a través del trabajo ocupacional y ambiental, que lleva a minimizar dichos riesgos, lo que se refleja en menores costos de producción y fortalece la rentabilidad del producto y la optimización del mismo. (Investigaci et al., 2003).
     .row
       .col-6-lg-6
-        .cajon.color-acento-botones.p-4.mb-5
+        .cajon.color-secundario.p-4.mb-5
           p <b>¡Muy bien!</b> Ha finalizado el estudio de este componente formativo a través del cual ha aprendido sobre los procedimientos técnicos de producción panelera. Ahora lo invitamos a estudiar la síntesis donde podrá recordar de forma general los saberes que se han desarrollado, a realizar la actividad de aprendizaje donde podrá colocar a prueba lo aprendido, consultar el material complementario que le servirá como refuerzo y profundización y estudiar el glosario.  
+
 
 </template>
 
