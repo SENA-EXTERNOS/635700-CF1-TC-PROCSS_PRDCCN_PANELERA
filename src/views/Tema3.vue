@@ -29,6 +29,7 @@
               figure
                 img(src='@/assets/curso/temas/T3/img-1.svg')
             .col-md-6
+              p <b>Corte y aponte de la caña</b>
               p El corte se debe realizar cuando la caña está madura, en ese momento el contenido de azúcares es máximo, de lo contrario los jugos de una caña inmadura o sobre madurada pueden alterar la panela. La actividad conocida como aponte se refiere a la recolección, el transporte hasta el trapiche y almacenamiento de la caña cosechada, procesos previos antes de la extracción de los jugos.
               
       .py-3.py-md-4(titulo="Extracción de jugos")
@@ -37,6 +38,7 @@
             figure
               img(src='@/assets/curso/temas/T3/img-2.svg')
           .col-md-6
+            p <b>Extracción de jugos</b>
             p Es una técnica antigua y se originó de la creatividad natural del ser humano, el proceso ocurre cuando la caña pasa a través de un molino de tres mazas (rodillos), los cuales atraviesan los tallos de la caña y los comprime para obtener el jugo o guarapo crudo, que es el insumo principal, además del bagazo húmedo que se emplea como combustible para la hornilla (Amanda & Marcillo, 2002), (Quezada, 2007). 
         
       .py-3.py-md-4(titulo="Pre limpieza de los jugos")
@@ -45,6 +47,7 @@
             figure
               img(src='@/assets/curso/temas/T3/img-3.svg')
           .col-md-6
+            p <b>Pre limpieza de los jugos</b>
             p La pre limpieza consiste en la eliminación por medios físicos y temperatura ambiente del material que sale con el jugo de caña del molino (tierra, partículas de bagazo, insectos o cera), se filtra por pozuelos y mallas donde se separan los residuos de gran tamaño, por medio de la sedimentación y floculación. En este paso se requieren pre limpiadores construidos en ladrillo con revestimiento de cerámica para facilitar la limpieza y la presencia de microorganismos (también se puede usar recipientes de acero inoxidable). La pre limpieza debe efectuarse de manera continua y puede utilizar el principio de separación por diferencia de densidad entre las impurezas como lodos, bagazo y arenas, para mejorar el producto final.
             p Los pre limpiadores hacen que la fabricación de panela sea de alto valor nutricional, gracias a que carecen de aditivos, lo que lo hace por excelencia un alimento de alta calidad. Entre las ventajas que ofrece este proceso se destacan:
             p a) <b>Retira gran cantidad de impurezas.</b>
@@ -58,6 +61,7 @@
             figure
               img(src='@/assets/curso/temas/T3/img-4.svg')
           .col-md-6
+            p <b>Limpieza y Mantenimiento</b>
             p La materia prima debe estar limpia, libre de residuos de tierra, restos de contaminantes y material que viene con la caña, posteriormente se debe sumergir en una solución de agua con cloro produciendo el lavado. Todos los equipos requeridos en el proceso de producción panelera, requieren un adecuado mantenimiento e higiene mínimo cada 6 horas, con el fin de evitar la fermentación de los jugos, evitando el deterioro de la calidad de la panela.
     
     Separador
@@ -157,9 +161,7 @@
             figure
               .titulo-sexto.color-acento-contenido
                 p.mb-0 
-                  b Tabla 2.
-                  br
-                  em Composición del proceso de clarificación
+                  p <b>Tabla 2.</b> Composición del proceso de clarificación
               img(src='@/assets/curso/temas/T3/img-10.svg', alt='Texto que describa la imagen')
 
         .row.align-items-center.justify-content-between
@@ -177,9 +179,7 @@
     figure.mb-5
       .titulo-sexto.color-acento-contenido
         p.mb-0 
-          b Figura 3.
-          br
-          em Extracción y forma de aplicación del mucílago
+          p <b>Figura 3.</b> Extracción y forma de aplicación del mucílago
       img(src='@/assets/curso/temas/T3/img-12.svg', alt='Texto que describa la imagen')
 
     Separador

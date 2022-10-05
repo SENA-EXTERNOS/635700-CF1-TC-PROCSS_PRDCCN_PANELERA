@@ -45,7 +45,7 @@
               
     Separador
 
-    #t_2_1.titulo-segundo.color-acento-contenido.mb-5
+    #t_2_1.titulo-segundo.color-acento-contenido
       h2 2.1	Características de la caña
     p.mb-5 <b>A continuación, conocerá las características más representativas de la caña.</b>
 
@@ -66,9 +66,7 @@
             figure
               .titulo-sexto.color-acento-contenido
                 p.mb-0 
-                  b Figura 1.
-                  br
-                  em Etapas del cultivo de caña 
+                  p <b> Figura 1. </b> Etapas del cultivo de caña 
               img(src='@/assets/curso/temas/T2/img-7.svg')
         .row.align-items-center.justify-content-between
           .col-md-6.mb-4.mb-md-0.mr-custom
@@ -150,7 +148,7 @@
                 p <b>Enlace web:</b>  Refractómetro 0 32 BRIX, Liberty Lab, determinación de Azúcares
           
           
-          .col-lg-10.mx-auto
+          .col-lg-10
             a.anexo.mb-4.mb-lg-2.mr-3-custom(href="https://www.youtube.com/watch?v=xmKWOsCAaTM" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")

@@ -23,7 +23,7 @@
       .row
         .col-md-9.mb-3.mb-md-0
           p A nivel nacional, el sector panelero se caracteriza por la importancia en la producción agropecuaria, por ello; se ha convertido en el eje central de la economía campesina de pequeños y grandes productores. Las costumbres en el proceso de fabricación, así como ser uno de los alimentos principales en la canasta familiar, que han perdurado por generaciones.
-          p La tradición en la cocción de la panela se mantiene vigentes con el paso del tiempo. No obstante, desde la entrada en vigencia de la resolución 779 de 2006, considerada como la principal normativava del contexto productivo, este gremio se enfrenta a nuevas políticas cómo: iintroducir tecnología de punta, habituar las prácticas técnicas, mejoras en la infraestructura y aspectos físicos en los trapiches; sumando a la preocupación en la preservación del bienestar de los actores del proceso.
+          p La tradición en la cocción de la panela se mantiene vigentes con el paso del tiempo. No obstante, desde la entrada en vigencia de la resolución 779 de 2006, considerada como la principal normativava del contexto productivo, este gremio se enfrenta a nuevas políticas cómo: introducir tecnología de punta, habituar las prácticas técnicas, mejoras en la infraestructura y aspectos físicos en los trapiches; sumando a la preocupación en la preservación del bienestar de los actores del proceso.
           p De acuerdo con lo anterior, es importante analizar el marco legal para el sistema de producción panelera, identificando y entendiendo las políticas de estricto cumplimiento para la obtención de la panela en óptimas condiciones para la venta y consumo, sin dejar de lado las buenas prácticas de manufactura donde prime el bienestar del trabajador.
       
         .col-md-3(data-aos='fade-left')
@@ -41,7 +41,7 @@
     PasosA.color-acento-contenido.mb-3
       .row
         .col.mb-4.mb-md-0
-          h3 Resolución Número 2546 de 20040 
+          h3 Resolución Número 2546 de 2004 
           p Por la cual se establece el reglamento técnico de emergencia, se señalan los requisitos sanitarios que se deben cumplir en la producción y comercialización de la panela para el consumo humano y se dictan otras disposiciones, en la cual se determina que la panela es un producto con un importante valor nutricional, de alto uso especialmente en la dieta de la población infantil y la de bajos recursos.
           .row
             .col-lg-6
@@ -129,7 +129,7 @@
           p Por la cual se modifica el parágrafo del artículo 9° y el artículo 15 de la Resolución 779 de 2006 y se dictan otras disposiciones.
           .row
             .col-lg-6.text-start
-              a.anexo.mb-4.mb-lg-2(href="https://www.google.com/?hl=es" target="_blank")
+              a.anexo.mb-4.mb-lg-2(href="https://xperta.legis.co/visor/legcol/legcol_8bc1596095ad20c6e0430a01015120c6/coleccion-de-legislacion-colombiana/resolucion-258-de-2010" target="_blank")
                 .anexo__icono
                   img(src="@/assets/template/icono-link.svg")
                 .anexo__texto
