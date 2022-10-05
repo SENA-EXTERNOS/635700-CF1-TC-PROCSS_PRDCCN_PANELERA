@@ -104,29 +104,8 @@
 
           img.col-md-4.mb-4.mb-md-5(src='@/assets/curso/temas/T2/img-10.svg')
           h4.mb-4.textRed Los datos del índice de madurez se interpretan así:
-          .row
-            .col-2 
-              p Menor a 85%
-            .col-4 
-              p.textRed ----------------------------------------------------
-            .col-4 
-              p.text-bold Tierna
-
-          .row
-            .col-2 
-              p 85 a 100%
-            .col-4 
-              p.textRed ----------------------------------------------------
-            .col-4 
-              p.text-bold Madura
-
-          .row
-            .col-2 
-              p Mayor a 100%
-            .col-4 
-              p.textRed ----------------------------------------------------
-            .col-4 
-              p.text-bold Sobremadura 
+          img(src='@/assets/curso/temas/T2/img-23.svg')
+           
       
         .col-md-4
           figure

@@ -50,10 +50,19 @@
             p <b>Pre limpieza de los jugos</b>
             p La pre limpieza consiste en la eliminación por medios físicos y temperatura ambiente del material que sale con el jugo de caña del molino (tierra, partículas de bagazo, insectos o cera), se filtra por pozuelos y mallas donde se separan los residuos de gran tamaño, por medio de la sedimentación y floculación. En este paso se requieren pre limpiadores construidos en ladrillo con revestimiento de cerámica para facilitar la limpieza y la presencia de microorganismos (también se puede usar recipientes de acero inoxidable). La pre limpieza debe efectuarse de manera continua y puede utilizar el principio de separación por diferencia de densidad entre las impurezas como lodos, bagazo y arenas, para mejorar el producto final.
             p Los pre limpiadores hacen que la fabricación de panela sea de alto valor nutricional, gracias a que carecen de aditivos, lo que lo hace por excelencia un alimento de alta calidad. Entre las ventajas que ofrece este proceso se destacan:
-            p a) <b>Retira gran cantidad de impurezas.</b>
-            p b) <b>Facilita la clarificación.</b>
-            p c) <b>Los jugos pres limpiadores y clarificados quedan transparentes.</b>
-            p d) <b>Reduce o elimina la utilización de blanqueadores.</b>
+            p.mb-0 
+              span.cs a)
+              b Retira gran cantidad de impurezas.
+            p.mb-0  
+              span.cs b) 
+              b Facilita la clarificación.
+            p.mb-0
+              span.cs  c) 
+              b Los jugos pres limpiadores y clarificados quedan transparentes.
+            p.mb-0
+              span.cs d) 
+              b Reduce o elimina la utilización de blanqueadores.
+            
 
       .py-3.py-md-4(titulo="Limpieza y mantenimiento")
         .row.align-items-center

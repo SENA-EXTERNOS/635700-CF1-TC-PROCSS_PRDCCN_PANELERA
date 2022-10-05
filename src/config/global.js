@@ -164,7 +164,7 @@ export default {
       referencia:
         'Barona-Rodríguez, A. F., Insuasty-Burbano, O. I., Viveros-Valens, C. A., Ángel-Sánchez, J. C., & Ramírez-Durán, J. (2020). Evaluación de cultivares de caña de azúcar (Saccharum spp.) para producción de panela en el departamento de Boyacá, Colombia. Revista U.D.C.A Actualidad & Divulgación Científica, 23(2), 1–9. https://doi.org/10.31910/rudca.v23.n2.2020.12908',
       tipo: 'Artículo',
-      descarga:
+      link:
         'https://revistas.udca.edu.co/index.php/ruadc/article/view/1298/1965 ',
     },
     {
@@ -172,7 +172,7 @@ export default {
       referencia:
         'Arias-Gutiérrez, R. (2018). AMAZONÍA EXÓTICA - Natural Antrópica Turística Publisher: Imprenta ESPE AMAZONÍA EXÓTICA - Natural Antrópica Turística (Issue November 2019).',
       tipo: 'Artículo páginas 154 a 165',
-      descarga:
+      link:
         'https://www.researchgate.net/profile/Matteo-Radice/publication/337005521_AMAZONIA_EXOTICA_-_Natural_Antropica_Turistica_Publisher_Imprenta_ESPE_-_ISBN_978994293210/links/5dc07d424585151435e8be5f/AMAZONIA-EXOTICA-Natural-Antropica-Turistica-Publisher-Imprenta-ESPE-ISBN-978994293210.pdf#page=167 ',
     },
   ],
