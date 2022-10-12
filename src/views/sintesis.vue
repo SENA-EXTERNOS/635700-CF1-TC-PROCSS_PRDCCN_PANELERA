@@ -14,7 +14,7 @@
     figure.mb-5
       .titulo-sexto.color-acento-contenido
         p.mb-0 
-          p <b>Figura 3.</b> Procedimientos técnicos en producción panelera
+          p <b>Figura 4.</b> Procedimientos técnicos en producción panelera
 
     .row.justify-content-center
       .col-lg-10.mb-5

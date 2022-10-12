@@ -81,9 +81,7 @@
             figure
               .titulo-sexto.color-acento-contenido
                 p.mb-0 
-                  b Figura 2.
-                  br
-                  em Variedades de la caña 
+                  p <b>Figura 2.</b> Variedades de la caña 
               img(src='@/assets/curso/temas/T2/img-9.svg')
     
     h3 
