@@ -29,7 +29,6 @@
               figure
                 img(src='@/assets/curso/temas/T3/img-1.svg')
             .col-md-6
-              p <b>Corte y aponte de la caña</b>
               p El corte se debe realizar cuando la caña está madura, en ese momento el contenido de azúcares es máximo, de lo contrario los jugos de una caña inmadura o sobre madurada pueden alterar la panela. La actividad conocida como aponte se refiere a la recolección, el transporte hasta el trapiche y almacenamiento de la caña cosechada, procesos previos antes de la extracción de los jugos.
               
       .py-3.py-md-4(titulo="Extracción de jugos")
@@ -38,7 +37,6 @@
             figure
               img(src='@/assets/curso/temas/T3/img-2.svg')
           .col-md-6
-            p <b>Extracción de jugos</b>
             p Es una técnica antigua y se originó de la creatividad natural del ser humano, el proceso ocurre cuando la caña pasa a través de un molino de tres mazas (rodillos), los cuales atraviesan los tallos de la caña y los comprime para obtener el jugo o guarapo crudo, que es el insumo principal, además del bagazo húmedo que se emplea como combustible para la hornilla (Amanda & Marcillo, 2002), (Quezada, 2007). 
         
       .py-3.py-md-4(titulo="Pre limpieza de los jugos")
@@ -47,7 +45,6 @@
             figure
               img(src='@/assets/curso/temas/T3/img-3.svg')
           .col-md-6
-            p <b>Pre limpieza de los jugos</b>
             p La pre limpieza consiste en la eliminación por medios físicos y temperatura ambiente del material que sale con el jugo de caña del molino (tierra, partículas de bagazo, insectos o cera), se filtra por pozuelos y mallas donde se separan los residuos de gran tamaño, por medio de la sedimentación y floculación. En este paso se requieren pre limpiadores construidos en ladrillo con revestimiento de cerámica para facilitar la limpieza y la presencia de microorganismos (también se puede usar recipientes de acero inoxidable). La pre limpieza debe efectuarse de manera continua y puede utilizar el principio de separación por diferencia de densidad entre las impurezas como lodos, bagazo y arenas, para mejorar el producto final.
             p Los pre limpiadores hacen que la fabricación de panela sea de alto valor nutricional, gracias a que carecen de aditivos, lo que lo hace por excelencia un alimento de alta calidad. Entre las ventajas que ofrece este proceso se destacan:
             p.mb-0 
@@ -70,7 +67,6 @@
             figure
               img(src='@/assets/curso/temas/T3/img-4.svg')
           .col-md-6
-            p <b>Limpieza y Mantenimiento</b>
             p La materia prima debe estar limpia, libre de residuos de tierra, restos de contaminantes y material que viene con la caña, posteriormente se debe sumergir en una solución de agua con cloro produciendo el lavado. Todos los equipos requeridos en el proceso de producción panelera, requieren un adecuado mantenimiento e higiene mínimo cada 6 horas, con el fin de evitar la fermentación de los jugos, evitando el deterioro de la calidad de la panela.
     
     Separador
@@ -163,14 +159,16 @@
               img(src='@/assets/curso/temas/T3/img-9.svg', alt='Texto que describa la imagen')
 
         .row.align-items-center.justify-content-between
-          .col-md-6.mb-4.mb-md-0
+          .col-md-4.mb-4.mb-md-0
             p Los clarificantes se pueden dividir en químicos y naturales. Dentro de estos están: el sulfoclarol o hidrosulfito de sodio (Na2S2O4) conocido como ditionito de sodio o hiposulfito de sodio, también está la sementina, el carbonato de calcio o caliza (CaCO3), óxido de calcio o cal viva (CaO), hidróxido de calcio o cal apagada Ca (OH)2, entre otras. En los naturales hace referencia a las plantas utilizadas para purificar, como la cáscara de balso, raíz de abrojo y la yausabara.
         
-          .col-md-6
+          .col-md-8
             figure
               .titulo-sexto.color-acento-contenido
                 p.mb-0 
-                  p <b>Tabla 2.</b> Composición del proceso de clarificación
+                  b Tabla 2.
+                  br
+                  em Composición del proceso de clarificación
               img(src='@/assets/curso/temas/T3/img-10.svg', alt='Texto que describa la imagen')
 
         .row.align-items-center.justify-content-between
@@ -208,7 +206,7 @@
     .row
       .col-6-lg-6
         .cajon.color-secundario.p-4.mb-5
-          p <b>¡Muy bien!</b> Ha finalizado el estudio de este componente formativo a través del cual ha aprendido sobre los procedimientos técnicos de producción panelera. Ahora lo invitamos a estudiar la síntesis donde podrá recordar de forma general los saberes que se han desarrollado, a realizar la actividad de aprendizaje donde podrá colocar a prueba lo aprendido, consultar el material complementario que le servirá como refuerzo y profundización y estudiar el glosario.  
+          p.mb-0 <b>¡Muy bien!</b> Ha finalizado el estudio de este componente formativo a través del cual ha aprendido sobre los procedimientos técnicos de producción panelera. Ahora lo invitamos a estudiar la síntesis donde podrá recordar de forma general los saberes que se han desarrollado, a realizar la actividad de aprendizaje donde podrá colocar a prueba lo aprendido, consultar el material complementario que le servirá como refuerzo y profundización y estudiar el glosario.  
 
 
 </template>

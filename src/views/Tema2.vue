@@ -102,7 +102,7 @@
 
           img.col-md-4.mb-4.mb-md-5(src='@/assets/curso/temas/T2/img-10.svg')
           h4.mb-4.textRed Los datos del índice de madurez se interpretan así:
-          img(src='@/assets/curso/temas/T2/img-23.svg')
+          img(src='@/assets/curso/temas/T2/img-23.svg', style="width:360px")
            
       
         .col-md-4
@@ -184,7 +184,7 @@
           .col-md-11.mb-4.mb-md-0
             p.mb-5 La composición de la caña principalmente es agua, seguido de fibra y sólidos solubles, también de elementos trazas que son aquellos que se encuentran en bajas concentraciones o cantidades, como en el caso de los minerales, proteínas y ceras. En la siguiente tabla se muestra la composición de la caña de azúcar.
         
-          .col-md-11
+          .col-md-11.mx-auto
             figure
             .titulo-sexto.color-acento-contenido
               p.mb-0 

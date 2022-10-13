@@ -20,11 +20,11 @@
       h2 1.1 Interpretación de documentos
 
     .tarjeta.tarjeta-amarillo.p-4.mb-5
-      .row
+      .row.align-items-center
         .col-md-9.mb-3.mb-md-0
           p A nivel nacional, el sector panelero se caracteriza por la importancia en la producción agropecuaria, por ello; se ha convertido en el eje central de la economía campesina de pequeños y grandes productores. Las costumbres en el proceso de fabricación, así como ser uno de los alimentos principales en la canasta familiar, que han perdurado por generaciones.
           p La tradición en la cocción de la panela se mantiene vigentes con el paso del tiempo. No obstante, desde la entrada en vigencia de la resolución 779 de 2006, considerada como la principal normativava del contexto productivo, este gremio se enfrenta a nuevas políticas cómo: introducir tecnología de punta, habituar las prácticas técnicas, mejoras en la infraestructura y aspectos físicos en los trapiches; sumando a la preocupación en la preservación del bienestar de los actores del proceso.
-          p De acuerdo con lo anterior, es importante analizar el marco legal para el sistema de producción panelera, identificando y entendiendo las políticas de estricto cumplimiento para la obtención de la panela en óptimas condiciones para la venta y consumo, sin dejar de lado las buenas prácticas de manufactura donde prime el bienestar del trabajador.
+          p.mb-0 De acuerdo con lo anterior, es importante analizar el marco legal para el sistema de producción panelera, identificando y entendiendo las políticas de estricto cumplimiento para la obtención de la panela en óptimas condiciones para la venta y consumo, sin dejar de lado las buenas prácticas de manufactura donde prime el bienestar del trabajador.
       
         .col-md-3(data-aos='fade-left')
           figure
