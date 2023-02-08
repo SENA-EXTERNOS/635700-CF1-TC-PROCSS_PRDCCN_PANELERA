@@ -3,13 +3,8 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    figure.mb-5
-      .titulo-sexto.color-secundario
-        p.mb-0
-          h3 Proceso de producción panelera
-          em Síntesis: Procedimientos técnicos de producción panelera
 
-    p El siguiente mapa integra los criterios y especificidades de los conocimientos expuestos en el presente componente formativo:
+    p.mb-5 El siguiente mapa integra los criterios y especificidades de los conocimientos expuestos en el presente componente formativo:
 
 
     .row.justify-content-center
