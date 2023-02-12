@@ -131,11 +131,11 @@
           p Por la cual se modifica el parágrafo del artículo 9° y el artículo 15 de la Resolución 779 de 2006 y se dictan otras disposiciones.
           .row
             .col-lg-8.col-md-10.col-12.text-start
-              a.anexo.mb-4.mb-lg-2(href="https://xperta.legis.co/visor/legcol/legcol_8bc1596095ad20c6e0430a01015120c6/coleccion-de-legislacion-colombiana/resolucion-258-de-2010" target="_blank")
+              a.anexo.mb-4.mb-lg-2(href="https://fedepanela.org.co/gremio/descargas/resolucion-3462-de-2008/" target="_blank")
                 .anexo__icono
                   img(src="@/assets/template/icono-link.svg")
                 .anexo__texto
-                  p <b>Enlace web:</b> Minsalud - Biblioteca Digital
+                  p <b>Enlace web:</b> FedePanela
 
     Separador
 

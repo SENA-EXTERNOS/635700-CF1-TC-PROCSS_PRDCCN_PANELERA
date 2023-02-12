@@ -4,7 +4,7 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
 
     .titulo-segundo.color-acento-contenido.mb-5
-      h2 Arrastrar y soltar
+      h2 Procedimientos técnicos de producción panelera
 
     .row
       .col-6.col-md-4.col-lg-3.mb-4.mb-md-0

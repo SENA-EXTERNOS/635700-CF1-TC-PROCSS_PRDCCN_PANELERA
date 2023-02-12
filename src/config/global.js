@@ -200,21 +200,19 @@ export default {
     {
       termino: 'Yausabara',
       significado:
-        'Nombre científico Pavonia sepium se encuentra en los cultivos y cercas vivas de los terrenos, presenta gran cantidad de gomas y mucilagos por ello es de gran importancia en la industria panelera. La mayoría de las personas la distingue por ser mala hierba.',
+        'Nombre científico <em>Pavonia sepium</em> se encuentra en los cultivos y cercas vivas de los terrenos, presenta gran cantidad de gomas y mucilagos por ello es de gran importancia en la industria panelera. La mayoría de las personas la distingue por ser mala hierba.',
     },
   ],
   referencias: [
     {
       referencia:
         'Amanda, I. & Marcillo, A. (2002). <em>Programa Nacional De Transferencia De Tecnología Agropecuaria Pronatta Ministerio De Agricultura Y Desarrollo Rural Funach-Ascapam Guía Para La Elaboración De Panela.</em>',
-      link:
-        'http://www.panelamonitor.org/media/docrepo/document/files/guia-para-la-elaboracion-de-panela.pdf',
+      link: '',
     },
     {
       referencia:
         'Duarte-Álvarez, O. J. & González-Villalba, J. D. (2019). Guía técnica del cultivo de la Caña de Azúcar. Fca Una, 1. ',
-      link:
-        'http://www.agr.una.py/fca/index.php/libros/catalog/view/326/27/353-1',
+      link: '',
     },
     {
       referencia:
@@ -234,8 +232,7 @@ export default {
     {
       referencia:
         'León, A. (2008). Hidratos de carbono. <em>Bioquímica</em>, p. 14–30.',
-      link:
-        'http://www.uhu.es/08007/.../apuntes/2005/pdf/Tema_02_carbohidratos.pdf',
+      link: '',
     },
     {
       referencia:

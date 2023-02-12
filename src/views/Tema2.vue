@@ -28,14 +28,13 @@
               img(src='@/assets/curso/temas/T2/img-2.png', alt='Texto que describa la imagen')
         .row.align-items-center.justify-content-between
           .col-md-6.mb-4.mb-md-0.mr-custom
-            p El cultivo de caña, debe ubicarse en condiciones ambientales específicas, se cultiva en lugares donde la temperatura sea alta, que oscile entre 32 oC y 38 oC durante su crecimiento y requiere de bajas temperaturas durante el período de maduración, con una temperatura mínima de 27 oC. Esta característica lleva al máximo extremo los jugos de la caña, para que sean de alta calidad, extrema pureza y el rendimiento de azúcar sea mayor. (Hidyat, 2015)
+            p El cultivo de caña, debe ubicarse en condiciones ambientales específicas, se cultiva en lugares donde la temperatura sea alta, que oscile entre 32 °C y 38 °C durante su crecimiento y requiere de bajas temperaturas durante el período de maduración, con una temperatura mínima de 27 °C. Esta característica lleva al máximo extremo los jugos de la caña, para que sean de alta calidad, extrema pureza y el rendimiento de azúcar sea mayor. (Hidyat, 2015)
           .col-md-5
             figure
               img(src='@/assets/curso/temas/T2/img-3.png', alt='Texto que describa la imagen')
         .row.align-items-center.justify-content-between
           .col-md-6.mb-4.mb-md-0.mr-custom
-            p La caña requiere una precipitación adecuada para su cultivo durante el período de crecimiento que llega hasta los nueve meses, para ello requiere alrededor de 1500 mm de agua repartida a lo largo de esta temporada, la mejor distribución del agua para el cultivo de caña es: mayor cantidad durante el período de maduración reduciéndose, reduciendo la cantidad de agua, esta acción restringe el crecimiento de la caña para lograr la acumulación de azúcar. La luz es uno de los factores básicos para la producción de azúcares por lo que su intensidad es muy importante. En condiciones normales de humedad, la radiación solar tiene gran influencia en el crecimiento, así como en la formación de los azúcares y en su pureza.
-            p (Duarte-Álvarez & Gonzalez-Villalba, 2019).
+            p La caña requiere, para su cultivo, una precipitación adecuada durante el período de crecimiento, el cual alcanza hasta los nueve meses; para esto, requiere alrededor de 1500 mm de agua, repartida durante el tiempo que dure la temporada. La luz es uno de los factores básicos para la producción de los azúcares, por lo que su intensidad es muy importante. En condiciones normales de humedad, la radiación solar tiene gran influencia en el crecimiento, así como en la formación de los azúcares y en su pureza. (Duarte-Álvarez y González-Villalba, 2019)
           .col-md-5
             figure
               img(src='@/assets/curso/temas/T2/img-4.png', alt='Texto que describa la imagen')
@@ -172,10 +171,140 @@
           .col-md-11.mb-4.mb-md-0
             p.mb-5 La composición de la caña, principalmente, es agua, seguida de fibra y sólidos solubles; también de elementos trazas, que son aquellos que se encuentran en bajas concentraciones o cantidades, como en el caso de los minerales, proteínas y ceras. Observe la tabla y analice la #[strong composición de la caña de azúcar].
 
-          .col-md-11.mx-auto
-            figure
-              img(src='@/assets/curso/temas/T2/img-18.svg')
-              figcaption Nota. Tomado de Quezada (2007).
+
+        .row.justify-content-center.align-items-start
+          .col-lg-4.col-sm-12
+
+            table.table
+              thead
+                tr
+                  th Componente
+                  th Cantidad
+              tbody
+                tr
+                  th Agua
+                  th.text-center 74,50
+
+                tr
+                  th Fibra
+                  th.text-center 10,00
+
+                tr
+                  td Celulosa
+                  td.text-center 5,50
+                tr
+                  td Pentosana
+                  td.text-center 2,00
+
+                tr
+                  td Araban
+                  td.text-center 0,50
+                tr
+                  td Lignina, leñosos, etc.
+                  td.text-center 2,00
+
+                tr
+                  th Azúcares
+                  th.text-center 14,00
+                tr
+                  td Sacarosa
+                  td.text-center 12,50
+
+                tr
+                  td Glucosa
+                  td.text-center 0,90
+
+                tr
+                  td Fructosa
+                  td.text-center 0,60
+
+          .col-lg-4.col-sm-12
+
+            table.table
+              thead
+                tr
+                  th Componente
+                  th Cantidad
+              tbody
+
+
+                tr
+                  th Cenizas
+                  th.text-center 0,50
+
+                tr
+                  td Sílice
+                  td.text-center 0,25
+                tr
+                  td Potasa
+                  td.text-center 0,12
+
+                tr
+                  td Soda
+                  td.text-center 0,01
+                tr
+                  td Cal
+                  td.text-center 0,02
+
+                tr
+                  td Magnesio
+                  td.text-center 0,01
+                tr
+                  td Ácido fosfórico
+                  td.text-center 0,07
+
+                tr
+                  td Ácido sulfúrico
+                  td.text-center 0,02
+
+                tr
+                  td Hierro
+                  td.text-center Trazas
+
+                tr
+                  td| Cloro
+                  td.text-center Trazas
+
+          .col-lg-4.col-sm-12
+            table.table
+              thead
+                tr
+                  th Componente
+                  th Cantidad
+              tbody
+
+
+                tr
+                  th.no Compuestos nitrogenados
+                  th.text-center 0,40
+                tr
+                  td Albúminas
+                  td.text-center 0,12
+                tr
+                  td Aminas
+                  td.text-center 0,07
+                tr
+                  td Aminoácidos
+                  td.text-center 0,20
+                tr
+                  td Ácido Nítrico
+                  td.text-center 0,01
+                tr
+                  th Ácidos y Grasas
+                  th.text-center 0,60
+                tr
+                  td Grasa y cera
+                  td.text-center 0,20
+
+                tr
+                  td Pectina y gomas
+                  td.text-center 0,20
+                tr
+                  td Ácidos libres
+                  td.text-center 0,08
+                tr
+                  td Ácidos combinados
+                  td.text-center 0,12
 
       .py-3.py-md-4(titulo="Carbohidratos")
         .row.align-items-center
@@ -230,4 +359,20 @@ export default {
 }
 </script>
 
-<style lang="sass"></style>
+<style lang="sass">
+thead
+  color: $color-primario
+  th
+    text-align: center
+    font-size: $h5-font-size
+
+th, td
+  border: 2px solid $color-primario
+  font-size: 1em
+
+tbody tr:last-child
+  border-bottom: 2px solid $color-primario
+
+th
+  font-weight: 700
+</style>

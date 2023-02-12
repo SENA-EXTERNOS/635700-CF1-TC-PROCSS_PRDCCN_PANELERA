@@ -110,15 +110,15 @@
             .h5.mb-2 Cámara de combustión
             p Aquí se lleva a cabo el proceso de ignición entre el bagazo y el aire.
 
-          .tarjeta.tarjeta-amarillo.p-3(x="51%" y="105%" numero="2")
+          .tarjeta.tarjeta-verde.p-3(x="51%" y="105%" numero="4")
             .h5.mb-2 Ducto de humos o conducto de gases
             p Transfiere parte del calor, a los jugos, a través de las pailas, gracias al transporte de gases.
 
-          .tarjeta.tarjeta-amarillo.p-3(x="70%" y="5%" numero="3")
+          .tarjeta.tarjeta-verde.p-3(x="70%" y="5%" numero="3")
             .h5.mb-2 Chimenea
             p Crea el tiro necesario para la combustión del bagazo y el transporte de los gases, a través del ducto.
 
-          .tarjeta.tarjeta-amarillo.p-3(x="47%" y="16%" numero="4")
+          .tarjeta.tarjeta-verde.p-3(x="47%" y="16%" numero="2")
             .h5.mb-2 Pailas o fondos
             p Son estructuras metálicas que reciben los jugos y transfieren el calor necesario para realizar la clasificación, evaporación y concentración.
 
@@ -135,7 +135,7 @@
 
           .row(titulo="Calentamiento de jugos")
             .col-md-12.mb-4.mb-md-0
-              p.mb-5 Al terminar la prelimpieza, se obtiene el jugo sin clarificar, el cual pasa directamente al fondo o paila recibidora, a una temperatura ambiente; luego se inicia el calentamiento hasta los 55 oC. Esto permite la aceleración de la velocidad del movimiento del jugo, facilitando la formación de partículas de gran tamaño y densidad, las cuales deben ser removidas por procesos físicos.
+              p.mb-5 Al terminar la prelimpieza, se obtiene el jugo sin clarificar, el cual pasa directamente al fondo o paila recibidora, a una temperatura ambiente; luego se inicia el calentamiento hasta los 55 °C. Esto permite la aceleración de la velocidad del movimiento del jugo, facilitando la formación de partículas de gran tamaño y densidad, las cuales deben ser removidas por procesos físicos.
 
 
       .col-4
