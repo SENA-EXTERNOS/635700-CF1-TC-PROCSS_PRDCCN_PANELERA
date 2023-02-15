@@ -98,7 +98,7 @@
           p La normativa en mención, fija un precio de referencia para la liquidación de la cuota de fomento panelero para el segundo semestre de 2020.
           .row
             .col-lg-8.col-md-10.col-12.text-start
-              a.anexo.mb-4.mb-lg-2.mr-3-custom(href="https://www.minagricultura.gov.co/Normatividad/Resoluciones/RESOLUCI%C3%93N%20154-2020%20PRECIO%20DE%20REFERENCIA%20CUOTA%20DE%20FOMENTO%20PANELERO.pdf " target="_blank")
+              a.anexo.mb-4.mb-lg-2.mr-3-custom(href="http://www.avancejuridico.com/actualidad/documentosoficiales/2012/48500/r_ma_0229_2012.html" target="_blank")
                 .anexo__icono
                   img(src="@/assets/template/icono-link.svg")
                 .anexo__texto
