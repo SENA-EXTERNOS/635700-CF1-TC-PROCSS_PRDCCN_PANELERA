@@ -211,8 +211,9 @@ export default {
     },
     {
       referencia:
-        'Duarte-Álvarez, O. J. & González-Villalba, J. D. (2019). Guía técnica del cultivo de la Caña de Azúcar. Fca Una, 1. ',
-      link: '',
+        'Duarte-Álvarez, O. J. & González-Villalba, J. D. (2019). Guía técnica del cultivo de la Caña de Azúcar. <em>Fca Una</em>, 1. ',
+      link:
+        'https://www.jica.go.jp/paraguay/espanol/office/others/c8h0vm0000ad5gke-att/gt_01.pdf',
     },
     {
       referencia:
