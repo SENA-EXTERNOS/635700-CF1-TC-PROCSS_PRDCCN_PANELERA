@@ -218,7 +218,7 @@ export default {
     {
       referencia:
         'Fernández del Campo, L. (2019). <em>Cultivo de la caña de azúcar.</em>',
-      link: 'https://doi.org/10.5962/bhl.title.156871 .',
+      link: 'https://www.biodiversitylibrary.org/bibliography/156871',
     },
     {
       referencia: 'Giraldo Henao, E. (1984). <em>Cultivo de la caña.</em>',
