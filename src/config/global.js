@@ -207,7 +207,8 @@ export default {
     {
       referencia:
         'Amanda, I. & Marcillo, A. (2002). <em>Programa Nacional De Transferencia De Tecnología Agropecuaria Pronatta Ministerio De Agricultura Y Desarrollo Rural Funach-Ascapam Guía Para La Elaboración De Panela.</em>',
-      link: '',
+      link:
+        'http://bibliotecadigital.agronet.gov.co/bitstream/11348/4775/1/2006102416333_Guia%20elaboracion%20de%20panela.pdf',
     },
     {
       referencia:
@@ -233,7 +234,8 @@ export default {
     {
       referencia:
         'León, A. (2008). Hidratos de carbono. <em>Bioquímica</em>, p. 14–30.',
-      link: '',
+      link:
+        'https://www.uhu.es/08007/documentos%20de%20texto/apuntes/2005/pdf/Tema_02_carbohidratos.pdf',
     },
     {
       referencia:

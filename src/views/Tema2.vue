@@ -176,7 +176,7 @@
           .col-lg-4.col-sm-12
 
             table.table
-              thead
+              thead.bgt1
                 tr
                   th Componente
                   th Cantidad
@@ -221,7 +221,7 @@
           .col-lg-4.col-sm-12
 
             table.table
-              thead
+              thead.bgt1
                 tr
                   th Componente
                   th Cantidad
@@ -267,7 +267,7 @@
 
           .col-lg-4.col-sm-12
             table.table
-              thead
+              thead.bgt1
                 tr
                   th Componente
                   th Cantidad
@@ -361,17 +361,13 @@ export default {
 
 <style lang="sass">
 thead
-  color: $color-primario
+
   th
     text-align: center
     font-size: $h5-font-size
 
 th, td
-  border: 2px solid $color-primario
   font-size: 1em
-
-tbody tr:last-child
-  border-bottom: 2px solid $color-primario
 
 th
   font-weight: 700
