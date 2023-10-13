@@ -200,7 +200,7 @@ export default {
     {
       termino: 'Yausabara',
       significado:
-        'Nombre científico <em>Pavonia sepium</em> se encuentra en los cultivos y cercas vivas de los terrenos, presenta gran cantidad de gomas y mucilagos por ello es de gran importancia en la industria panelera. La mayoría de las personas la distingue por ser mala hierba.',
+        'Nombre científico <em>Pavonia sepium</em> se encuentra en los cultivos y cercas vivas de los terrenos, presenta gran cantidad de gomas y mucílagos por ello es de gran importancia en la industria panelera. La mayoría de las personas la distingue por ser mala hierba.',
     },
   ],
   referencias: [

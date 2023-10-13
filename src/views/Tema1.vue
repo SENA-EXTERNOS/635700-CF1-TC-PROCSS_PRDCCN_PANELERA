@@ -24,7 +24,7 @@
         .col-md-9.mb-3.mb-md-0
           p A nivel nacional, el sector panelero se caracteriza por ser uno de los más importantes de la producción agropecuaria; es por esta razón, se ha convertido en el eje central de la economía campesina y de los pequeños y grandes productores. El proceso de fabricación está altamente ligado a las costumbres regionales, por lo que se considera uno de los alimentos principales en la canasta familiar, práctica que ha perdurado por generaciones.
 
-          p La tradición en la cocción de la panela, se mantiene vigente con el paso del tiempo. No obstante, desde la entrada en vigencia de la resolución 779 de 2006, considerada como la principal normativa del contexto productivo, este sector se enfrenta a nuevas políticas cómo: introducir tecnología de punta, habituar las prácticas técnicas, mejoras en la infraestructura y aspectos físicos en los trapiches; sin descuidar, desde luego, la preocupación por la preservación del bienestar de los actores del proceso.
+          p La tradición en la cocción de la panela, se mantiene vigente con el paso del tiempo. No obstante, desde la entrada en vigencia de la resolución 779 de 2006, considerada como la principal normativa del contexto productivo, este sector se enfrenta a nuevas políticas como introducir tecnología de punta, habituar las prácticas técnicas, mejoras en la infraestructura y aspectos físicos en los trapiches; sin descuidar, desde luego, la preocupación por la preservación del bienestar de los actores del proceso.
 
           p.mb-0 De acuerdo con lo anterior, es importante analizar el marco legal para el sistema de producción panelera, identificando y entendiendo las políticas de estricto cumplimiento para la obtención de la panela en óptimas condiciones para la venta y consumo, sin dejar de lado las buenas prácticas de manufactura donde prime el bienestar del trabajador.
 
@@ -213,7 +213,7 @@
       .row
         .col.mb-4.mb-md-0
           h4 Resolución número 3544 de 2009
-          p Por la cual se modifican los artículos 11 y 13 de la resolución 779 de 2006.
+          p Por la cual se modifican los artículos 11 y 13 de la Resolución 779 de 2006.
           .row
             .col-lg-8.col-md-10.col-12
               a.anexo.mb-4.mb-lg-2.mr-3-custom(href=" https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/Resolucion-3544-de-2009.pdf" target="_blank")

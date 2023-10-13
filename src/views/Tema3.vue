@@ -44,7 +44,7 @@
           .col-md-6
             p Es una técnica antigua y se originó de la creatividad natural del ser humano, el proceso ocurre cuando la caña pasa a través de un molino de tres mazas (rodillos), los cuales atraviesan los tallos de la caña y los comprime para obtener el jugo o guarapo crudo, que es el insumo principal, además del bagazo húmedo que se emplea como combustible para la hornilla (Amanda & Marcillo, 2002), (Quezada, 2007).
 
-      .py-3.py-md-4(titulo="Pre limpieza de los jugos")
+      .py-3.py-md-4(titulo="Prelimpieza de los jugos")
         .row.align-items-center.justify-content-around
           .col-md-4.mb-4.mb-md-0
             figure
@@ -52,7 +52,7 @@
           .col-md-6
             p La prelimpieza consiste en la eliminación, por medios físicos y temperatura ambiente, del material que sale del molino con el jugo de la caña: tierra, partículas de bagazo, insectos o cera. Se filtra por pozuelos y mallas donde se separan los residuos de gran tamaño, por medio de la sedimentación y floculación. En este paso, se requieren prelimpiadores construidos con ladrillo y revestimiento de cerámica, para facilitar la limpieza y la presencia de microorganismos (también se pueden usar recipientes de acero inoxidable). La prelimpieza debe efectuarse de manera continua y puede utilizar el principio de separación por diferencia de densidad entre las impurezas como lodos, bagazo y arenas, para mejorar el producto final.
 
-            p Los pre limpiadores hacen que la fabricación de panela sea de alto valor nutricional, gracias a que carecen de aditivos, lo que lo hace por excelencia un alimento de alta calidad. Entre las ventajas que ofrece este proceso se destacan:
+            p Los prelimpiadores hacen que la fabricación de panela sea de alto valor nutricional, gracias a que carecen de aditivos, lo que lo hace por excelencia un alimento de alta calidad. Entre las ventajas que ofrece este proceso se destacan:
             p.mb-0
               span.cs a) &nbsp;
               b Retira gran cantidad de impurezas.
@@ -61,7 +61,7 @@
               b Facilita la clarificación.
             p.mb-0
               span.cs  c) &nbsp;
-              b Los jugos pres limpiadores y clarificados quedan transparentes.
+              b Los jugos prelimpiadores y clarificados quedan transparentes.
             p.mb-0
               span.cs d) &nbsp;
               b Reduce o elimina la utilización de blanqueadores.
@@ -95,7 +95,7 @@
       i.fas.fa-square.cac.me-4
       | Clarificación, evaporación y concentración de jugos
 
-    p Las etapas de clarificación, evaporación y concentración, se llevan a cabo en la hornilla y horno, que suministran el calor necesario para evaporar más del 90 % del agua contenida en el guarapo, para la obtención de la panela.
+    p Las etapas de clarificación, evaporación y concentración, se llevan a cabo en la hornilla y horno, que suministran el calor necesario para evaporar más del 90% del agua contenida en el guarapo, para la obtención de la panela.
 
     p En el siguiente esquema infográfico, identifique las etapas y partes de este proceso:
 
@@ -186,7 +186,7 @@
     p.mb-4 En el siguiente esquema, conozca y detalle el proceso de extracción y la forma de aplicación del mucílago:
 
     figure.mb-5
-      img(src='@/assets/curso/temas/T3/img-12-2.svg', alt='Texto que describa la imagen')
+      img(src='@/assets/curso/temas/T3/img-12-2-.svg', alt='Texto que describa la imagen')
 
     Separador
 
@@ -201,7 +201,7 @@
           .tarjeta
             .p-4
               p.mb-5 Colombia, es un país donde la agricultura es una de las principales fuentes económicas, este sector se ha venido renovando a través de estrategias para optimizar y cualificar los procesos desde el punto de vista normativos y de producción, haciendo énfasis en la manufactura, la salud y seguridad en el trabajo, entre otros.
-              p Las buenas prácticas de manufactura, contribuyen en el sector panelero mediante la mejora continua de la industria a través del trabajo ocupacional y ambiental, que lleva a minimizar dichos riesgos, lo que se refleja en menores costos de producción y fortalece la rentabilidad del producto y la optimización del mismo. (Investigaci et al., 2003).
+              p Las buenas prácticas de manufactura, contribuyen en el sector panelero mediante la mejora continua de la industria a través del trabajo ocupacional y ambiental, que lleva a minimizar dichos riesgos, lo que se refleja en menores costos de producción y fortalece la rentabilidad del producto y la optimización del mismo (Investigaci et al., 2003).
 
     .row.justify-content-center
       .col-lg-10.col-12

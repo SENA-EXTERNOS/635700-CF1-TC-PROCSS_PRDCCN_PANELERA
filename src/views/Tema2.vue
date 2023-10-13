@@ -14,33 +14,33 @@
       SlyderA(tipo="b")
         .row.align-items-center.justify-content-between
           .col-md-6.mb-4.mb-md-0.mr-custom
-            p La caña cuyo nombre científico es #[em Saccharum officinarum] también conocida como caña de azúcar, es una planta gramínea originaria de Nueva Guinea que gracias a la acción humana se extendió por el mundo al ser transportada y cultivada por primera vez en Asia e India, desde esas regiones la plantación se extendió por varios países alrededor del mundo.  En el año 2001 Colombia fue nominado como el país productor de panela más importante, promoviendo más de 150.000 toneladas al año (SAGARPA, 2015).
+            p La caña cuyo nombre científico es #[em Saccharum officinarum] también conocida como caña de azúcar, es una planta gramínea originaria de Nueva Guinea que gracias a la acción humana se extendió por el mundo al ser transportada y cultivada por primera vez en Asia e India, desde esas regiones la plantación se extendió por varios países alrededor del mundo.  En el año 2001, Colombia fue nominado como el país productor de panela más importante, promoviendo más de 150.000 toneladas al año (SAGARPA, 2015).
 
           .col-md-5
             figure
               img(src='@/assets/curso/temas/T2/img-1.png', alt='Texto que describa la imagen')
         .row.align-items-center.justify-content-between
           .col-md-6.mb-4.mb-md-0.mr-custom
-            p La labranza de la caña de azúcar, es determinante en gran parte del entorno social y económico de una región, debido a que se requiere mano de obra desde el momento de la siembra, hasta la cosecha. Se usa principalmente como materia prima en la producción de azúcar para consumo humano y también se usa como forraje, bebidas alcohólicas y alcohol carburante. (Giraldo Henao, 1984)
+            p La labranza de la caña de azúcar, es determinante en gran parte del entorno social y económico de una región, debido a que se requiere mano de obra desde el momento de la siembra, hasta la cosecha. Se usa principalmente como materia prima en la producción de azúcar para consumo humano y también se usa como forraje, bebidas alcohólicas y alcohol carburante (Giraldo Henao, 1984).
 
           .col-md-5
             figure
               img(src='@/assets/curso/temas/T2/img-2.png', alt='Texto que describa la imagen')
         .row.align-items-center.justify-content-between
           .col-md-6.mb-4.mb-md-0.mr-custom
-            p El cultivo de caña, debe ubicarse en condiciones ambientales específicas, se cultiva en lugares donde la temperatura sea alta, que oscile entre 32 °C y 38 °C durante su crecimiento y requiere de bajas temperaturas durante el período de maduración, con una temperatura mínima de 27 °C. Esta característica lleva al máximo extremo los jugos de la caña, para que sean de alta calidad, extrema pureza y el rendimiento de azúcar sea mayor. (Hidyat, 2015)
+            p El cultivo de caña, debe ubicarse en condiciones ambientales específicas, se cultiva en lugares donde la temperatura sea alta, que oscile entre 32 °C y 38 °C durante su crecimiento y requiere de bajas temperaturas durante el período de maduración, con una temperatura mínima de 27 °C. Esta característica lleva al máximo extremo los jugos de la caña, para que sean de alta calidad, extrema pureza y el rendimiento de azúcar sea mayor (Hidyat, 2015).
           .col-md-5
             figure
               img(src='@/assets/curso/temas/T2/img-3.png', alt='Texto que describa la imagen')
         .row.align-items-center.justify-content-between
           .col-md-6.mb-4.mb-md-0.mr-custom
-            p La caña requiere, para su cultivo, una precipitación adecuada durante el período de crecimiento, el cual alcanza hasta los nueve meses; para esto, requiere alrededor de 1500 mm de agua, repartida durante el tiempo que dure la temporada. La luz es uno de los factores básicos para la producción de los azúcares, por lo que su intensidad es muy importante. En condiciones normales de humedad, la radiación solar tiene gran influencia en el crecimiento, así como en la formación de los azúcares y en su pureza. (Duarte-Álvarez y González-Villalba, 2019)
+            p La caña requiere, para su cultivo, una precipitación adecuada durante el período de crecimiento, el cual alcanza hasta los nueve meses; para esto, requiere alrededor de 1500 mm de agua, repartida durante el tiempo que dure la temporada. La luz es uno de los factores básicos para la producción de los azúcares, por lo que su intensidad es muy importante. En condiciones normales de humedad, la radiación solar tiene gran influencia en el crecimiento, así como en la formación de los azúcares y en su pureza (Duarte-Álvarez y González-Villalba, 2019).
           .col-md-5
             figure
               img(src='@/assets/curso/temas/T2/img-4.png', alt='Texto que describa la imagen')
         .row.align-items-center.justify-content-between
           .col-md-6.mb-4.mb-md-0.mr-custom
-            p Los procesos deficientes durante el cultivo, sumados a las malas prácticas para su cuidado durante la fase agrícola, pueden registrar bajas concentraciones en la productividad de la caña, debido al manejo inadecuado de los monocultivos, asistido por el hombre. Además de la escasa o nula utilización de fertilizantes, la omisión en el control de malezas, plagas y la lenta renovación de variedades en decadencia, conlleva, durante la fase de cosecha y molienda, a aumentar los costos por el transporte de materia prima inadecuada y las bajas concentraciones durante la extracción del jugo, durante la molienda. (Romero y Digonzelli, 2009)
+            p Los procesos deficientes durante el cultivo, sumados a las malas prácticas para su cuidado durante la fase agrícola, pueden registrar bajas concentraciones en la productividad de la caña, debido al manejo inadecuado de los monocultivos, asistido por el hombre. Además de la escasa o nula utilización de fertilizantes, la omisión en el control de malezas, plagas y la lenta renovación de variedades en decadencia, conlleva, durante la fase de cosecha y molienda, a aumentar los costos por el transporte de materia prima inadecuada y las bajas concentraciones durante la extracción del jugo, durante la molienda (Romero y Digonzelli, 2009).
           .col-md-5
             figure
               img(src='@/assets/curso/temas/T2/img-5.png', alt='Texto que describa la imagen')
@@ -68,7 +68,7 @@
         .row.align-items-center.justify-content-between
           .col-md-6.mb-4.mb-md-0.mr-custom
             h4 Etapas en la siembra
-            p La temperatura promedio de cultivo es 25ºC donde se determina que la producción alcanza el rango de ser buena. Durante el período de siembra esta pasa por cuatro etapas: germinación, macollamiento, rápido crecimiento y maduración.
+            p La temperatura promedio de cultivo es 25 ºC donde se determina que la producción alcanza el rango de ser buena. Durante el período de siembra esta pasa por cuatro etapas: germinación, macollamiento, rápido crecimiento y maduración.
 
           .col-md-5
             figure
@@ -92,8 +92,8 @@
       i.fas.fa-square.cac.me-4
       | Madurez de la caña
 
-    p.my-3 Las personas que han trabajado toda la vida con el cultivo de caña de azúcar, pueden determinar fácilmente su madurez de manera subjetiva, empleando conocimientos empíricos obtenidos por la experiencia, además de los sentidos para establecer que el fruto este en su punto, basado en el color de las hojas, grosor, dulzor, comportamiento del macollo o tallos de la caña.
-    p No obstante, existe otra técnica que requiere instrumentos como el refractómetro; este proceso es objetivo, técnico, seguro y confiable, para establecer el índice de madurez (IM) de la caña. El análisis de la sacarosa, por medio del índice de refracción, determina la concentración de azúcar en la caña, por la densidad óptica, al determinar el Brix. (Quezada, 2007)
+    p.my-3 Las personas que han trabajado toda la vida con el cultivo de caña de azúcar, pueden determinar fácilmente su madurez de manera subjetiva, empleando conocimientos empíricos obtenidos por la experiencia, además de los sentidos para establecer que el fruto esté en su punto, basado en el color de las hojas, grosor, dulzor, comportamiento del macollo o tallos de la caña.
+    p No obstante, existe otra técnica que requiere instrumentos como el refractómetro; este proceso es objetivo, técnico, seguro y confiable, para establecer el índice de madurez (IM) de la caña. El análisis de la sacarosa, por medio del índice de refracción, determina la concentración de azúcar en la caña, por la densidad óptica, al determinar el Brix (Quezada, 2007).
 
     p A continuación, se enuncian la determinación del Brix terminal y basal:
 
@@ -127,7 +127,7 @@
         .col-auto
           img(src='@/assets/curso/temas/T2/img-14.svg')
         .col
-          p El corte de la caña debe realizarse cuando alcanza la madurez adecuada; esto significa que la concentración de azúcar (sacarosa) y el contenido de sólidos solubles, son elevados. No se recomienda el corte de cañas inmaduras o sobremaduradas, porque el rendimiento es menor e influye negativamente en la panela. (Amanda & Marcillo, 2002)
+          p El corte de la caña debe realizarse cuando alcanza la madurez adecuada; esto significa que la concentración de azúcar (sacarosa) y el contenido de sólidos solubles, son elevados. No se recomienda el corte de cañas inmaduras o sobremaduradas, porque el rendimiento es menor e influye negativamente en la panela (Amanda & Marcillo, 2002).
           p Existen dos modalidades utilizadas para cosechar la caña: #[strong corte por parejo] y el #[strong corte por entresaque], o #[strong desguíe].
 
 
@@ -155,7 +155,7 @@
                 img(src='@/assets/curso/temas/T2/img-16.svg')
             .col-md-8.mb-4.mb-md-0
               p Es la práctica más generalizada entre los pequeños productores que utilizan el sistema de siembra mateado (por matas), que generalmente se práctica en zonas de laderas.
-              p.mb-5 El proceso del corte, consiste en cortar las cañas maduras, permitiendo el crecimiento y desarrollo de las tiernas; esto se hace para su posterior cosecha, porque esta técnica tiene una ventaja en la obtención de jugos sólidos solubles. Se puede concluir que, el sistema es bueno, porque se puede repetir durante todo el año, pero presenta una desventaja, y es que implica invertir más tiempo y dinero, teniendo en cuenta que las cañas maduras se presentarán todo el año. Se debe tener precaución de no cortar las cañas tiernas o sobremaduras, porque se vería afectada la calidad de la panela; como efecto de eso, los azucares no serían sacarosa, sino invertidos de la caña o azúcares reductores. (Quezada, 2007)
+              p.mb-5 El proceso del corte, consiste en cortar las cañas maduras, permitiendo el crecimiento y desarrollo de las tiernas; esto se hace para su posterior cosecha, porque esta técnica tiene una ventaja en la obtención de jugos sólidos solubles. Se puede concluir que, el sistema es bueno, porque se puede repetir durante todo el año, pero presenta una desventaja, y es que implica invertir más tiempo y dinero, teniendo en cuenta que las cañas maduras se presentarán todo el año. Se debe tener precaución de no cortar las cañas tiernas o sobremaduras, porque se vería afectada la calidad de la panela; como efecto de eso, los azúcares no serían sacarosa, sino invertidos de la caña o azúcares reductores (Quezada, 2007).
 
 
       Separador
