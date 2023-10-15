@@ -1,6 +1,6 @@
 export default {
   global: {
-    componenteFormativo: 'Procedimientos técnicos de producción panelera',
+    componenteFormativo: 'Procedimientos técnicos de la producción panelera',
     descripcionCurso:
       'El ser humano se ha interesado por ingerir alimentos para su beneficio.  A medida que avanza la tecnología, la industria ha mejorado procesos de fabricación de alimentos, especialmente en la preservación, basándose en normas que incluyen técnicas de cultivo, siembra, manipulación, empaque y almacenamiento, sin descuidar el origen de la materia prima.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),

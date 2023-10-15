@@ -1,1 +1,1 @@
-module.exports = 'Procedimientos técnicos de producción panelera'
+module.exports = 'Procedimientos técnicos la producción panelera'
